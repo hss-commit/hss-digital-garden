@@ -1,0 +1,131 @@
+1:"$Sreact.fragment"
+2:I[39756,["/hss-digital-garden/_next/static/chunks/05-c3ty_6dwfk.js","/hss-digital-garden/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+3:I[37457,["/hss-digital-garden/_next/static/chunks/05-c3ty_6dwfk.js","/hss-digital-garden/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+4:I[84834,["/hss-digital-garden/_next/static/chunks/05-c3ty_6dwfk.js","/hss-digital-garden/_next/static/chunks/14mrh2-p_w84d.js","/hss-digital-garden/_next/static/chunks/3xs6rg-g7tqe8.js"],"default"]
+5:I[22016,["/hss-digital-garden/_next/static/chunks/05-c3ty_6dwfk.js","/hss-digital-garden/_next/static/chunks/14mrh2-p_w84d.js","/hss-digital-garden/_next/static/chunks/3xs6rg-g7tqe8.js"],""]
+7:I[97367,["/hss-digital-garden/_next/static/chunks/05-c3ty_6dwfk.js","/hss-digital-garden/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+b:I[97367,["/hss-digital-garden/_next/static/chunks/05-c3ty_6dwfk.js","/hss-digital-garden/_next/static/chunks/14mrh2-p_w84d.js"],"ViewportBoundary"]
+d:I[97367,["/hss-digital-garden/_next/static/chunks/05-c3ty_6dwfk.js","/hss-digital-garden/_next/static/chunks/14mrh2-p_w84d.js"],"MetadataBoundary"]
+f:I[68027,["/hss-digital-garden/_next/static/chunks/05-c3ty_6dwfk.js","/hss-digital-garden/_next/static/chunks/14mrh2-p_w84d.js"],"default",1]
+:HL["/hss-digital-garden/_next/static/chunks/1sa0l7b9hs058.css","style"]
+:HL["/hss-digital-garden/_next/static/media/2a65768255d6b625-s.p.3u4lli0-axodc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/hss-digital-garden/_next/static/media/47df9ba1c7236d3b-s.p.137759vg1sbmi.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","learning","deep-work-method"],"q":"","i":false,"f":[[["",{"children":["learning",{"children":[["slug","deep-work-method","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/hss-digital-garden/_next/static/chunks/1sa0l7b9hs058.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/hss-digital-garden/_next/static/chunks/05-c3ty_6dwfk.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/hss-digital-garden/_next/static/chunks/14mrh2-p_w84d.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","className":"playfair_display_fa6c7a-module__e6LDAG__variable source_sans_3_ad774026-module__O-6XCW__variable","children":["$","body",null,{"className":"font-sans","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","$L4",null,{}],["$","main",null,{"className":"mx-auto flex max-w-3xl flex-col items-center justify-center px-6 pt-40 pb-20 text-center md:px-12","children":[["$","h1",null,{"className":"font-serif text-7xl font-bold text-[var(--color-text-primary)]","children":"404"}],["$","p",null,{"className":"mt-4 text-lg text-[var(--color-text-secondary)]","children":"This page doesn't exist yet."}],["$","$L5",null,{"href":"/","className":"arrow-link mt-8 text-sm font-medium text-[var(--color-text-secondary)] hover:text-[var(--color-accent)] transition-colors duration-200","children":[["$","span",null,{"className":"arrow-icon","children":"←"}]," Back home"]}]]}],["$","footer",null,{"className":"border-t border-[var(--color-border)] px-6 py-10 md:px-12","children":["$","div",null,{"className":"mx-auto flex max-w-6xl flex-col items-start justify-between gap-4 sm:flex-row sm:items-center","children":[["$","p",null,{"className":"text-sm text-[var(--color-text-secondary)]","children":"Built with care. © HSS"}],["$","div",null,{"className":"flex items-center gap-6","children":[["$","a",null,{"href":"https://github.com","target":"_blank","rel":"noopener noreferrer","className":"text-sm text-[var(--color-text-secondary)] hover-underline transition-colors duration-200","children":"GitHub"}],["$","$L5",null,{"href":"/new","className":"text-sm text-[var(--color-text-secondary)] hover-underline transition-colors duration-200","children":"New"}],["$","a",null,{"href":"/rss.xml","className":"text-sm text-[var(--color-text-secondary)] hover-underline transition-colors duration-200","children":"RSS"}]]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L6",[["$","script","script-0",{"src":"/hss-digital-garden/_next/static/chunks/3xs6rg-g7tqe8.js","async":true,"nonce":"$undefined"}]],["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]]}],{},null,false,null]},null,false,"$@a"]},null,false,"$@a"]},null,false,null],["$","$1","h",{"children":[null,["$","$Lb",null,{"children":"$Lc"}],["$","div",null,{"hidden":true,"children":["$","$Ld",null,{"children":["$","$8",null,{"name":"Next.Metadata","children":"$Le"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$f",[["$","link","0",{"rel":"stylesheet","href":"/hss-digital-garden/_next/static/chunks/1sa0l7b9hs058.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"QvfJvM7Dra5qMHn1q7J7_"}
+10:[]
+a:"$W10"
+11:T1fee,<h2>核心原则</h2>
+<p>记死了这四条：</p>
+<ol>
+<li><strong>每天至少留出 1 小时</strong>，专注在 <strong>1 个有意义的项目</strong>上</li>
+<li>心里<strong>锚定 1 个未来愿景</strong>，一步一个脚印往前走</li>
+<li>你缺的从来不是<strong>动力</strong>，是<strong>清晰的方向</strong></li>
+<li>你缺的也从来不是<strong>时间</strong>，是<strong>极致的专注</strong></li>
+</ol>
+<h2>注意力 = 运行内存（RAM）</h2>
+<p>你的大脑是一台超级计算机，注意力就是它的运行内存。电脑开的程序、网页越多，运行速度越慢——你的注意力也是一个道理。</p>
+<blockquote>
+<p>人类的有意识注意力，每秒只能处理约 <strong>50 比特</strong>的信息，一辈子算下来，也就 <strong>1250 亿比特</strong>。</p>
+<p>这就是你的时间炸弹：要么把它投资给更好的未来，要么就让杂念像弹窗一样把它彻底堵死。</p>
+</blockquote>
+<p>大多数人的注意力每天都在混沌中横冲直撞：想着焦虑的未来、乏味的当下、遗憾的过去，心里喊着要跳出固化的生活，手里却对着一堆优先级混乱的任务无从下手。</p>
+<p>早上一打开手机，注意力就被撕成上千片。<strong>这就是现代人的常态，也是效率低下的根源。</strong></p>
+<h2>精神熵：你的大脑为什么会乱</h2>
+<p>热力学第二定律说，任何自然过程中，混乱度（熵）都会不断增加，除非你投入精力去维持秩序。</p>
+<ul>
+<li>书架不整理，书会散落在各处</li>
+<li>房间不打扫，会慢慢变得脏乱</li>
+<li><strong>你的大脑也是一样，不刻意整理，就会变成一个乱糟糟的「洞穴」，被杂念、焦虑、无聊填满</strong></li>
+</ul>
+<p>这就是<strong>精神熵</strong>。</p>
+<p>你之所以没效率，本质就是精神熵太高。而核心原因只有一个：<strong>没有清晰的方向</strong>。</p>
+<p>注意力被一个杂念带走，你不及时拉回来，混沌就会慢慢将你吞噬——<strong>杂念就是熵的开始</strong>，它会把你本应投入目标的精力全部偷走。</p>
+<h2>识别杂念：无聊和焦虑</h2>
+<p>其实识别杂念、及时修正自己很简单，就看两种情绪：</p>
+<p>| 情绪 | 原因 | 表现 |
+|------|------|------|
+| <strong>无聊</strong> | 任务难度远低于你的能力 | 注意力一散，脑子里冒出各种「更有意思的事」，无法专注当下 |
+| <strong>焦虑</strong> | 任务难度远高于你的能力 | 注意力转向内心，满脑子都是「我不行」的负面想法，引发连锁杂念 |</p>
+<p>能治愈这种混沌的，只有<strong>清晰的方向</strong>。</p>
+<p>当你的能力和任务的挑战<strong>匹配</strong>时，生活就会变成一场你热爱的闯关游戏，每一步都有方向，每一次努力都有反馈。</p>
+<h2>把工作当成游戏闯关</h2>
+<p>心流之父米哈里说过：</p>
+<blockquote>
+<p>最优的内心体验，是意识处于有序的状态——当你的注意力投入到现实的目标中，当你的能力匹配当下的行动时，就会进入这种状态。</p>
+</blockquote>
+<p>为什么游戏会让人上瘾？无非三个原因：</p>
+<ol>
+<li>有<strong>清晰的目标层级</strong></li>
+<li>有<strong>明确的规则和反馈</strong></li>
+<li>能让人在<strong>进步中获得愉悦</strong></li>
+</ol>
+<p>深度工作也能这样。把人生当成一场大游戏，把每次深度工作当成一次闯关任务，专注度会自然拉满。</p>
+<h2>三步落地法</h2>
+<h3>第一步：量化你的 2-3 个核心任务</h3>
+<p>注意，这不是说你一天只做 2-3 件事，而是说，把<strong>最耗脑力的核心任务限定在 2-3 个</strong>。</p>
+<ul>
+<li><strong>深度工作</strong>，只留给深度任务</li>
+<li>回邮件、做行政等浅层工作，批量处理，放在非专注时间</li>
+</ul>
+<p>这些核心任务绝对不能是日常维护性的事，而是<strong>能推动你人生前进的关键事</strong>——是创作者打造的新产品、写的推广文案，是能直接带来结果和成长的事。</p>
+<p><strong>把这些任务量化</strong>：</p>
+<ul>
+<li>不要说「写点通讯稿」，要说「写 1000 字通讯稿」</li>
+<li>不要说「做产品调研」，要说「整理 10 个竞品的核心优势」</li>
+</ul>
+<p>量化会形成清晰的反馈，你能直观看到自己的进度，大脑就不会轻易偏离任务。</p>
+<h3>第二步：给任务设下「必须完成」理由的截止时间</h3>
+<blockquote>
+<p>你的所思、所感、所做，你热爱的一切，都是你注意力聚焦的总和。</p>
+</blockquote>
+<p><strong>第一层聚焦</strong>：把核心任务限定在 2-3 个，对齐长期目标——隔绝无关杂念。</p>
+<p><strong>第二层聚焦</strong>：给每个核心任务设定<strong>时间块式的截止时间</strong>。</p>
+<p>截止时间的魔力：哪怕是拖延症，最后一刻也能逼出心流，把活干完。你要做的，就是把这种魔力复制到每天的深度工作中。</p>
+<h4>设定截止时间的方法</h4>
+<p><strong>方法一：60-90 分钟的挑战型时间块</strong></p>
+<p>这个时间通常不够完成任务，但正因为不够，你才没时间胡思乱想，只能立刻行动。</p>
+<p>就算没完成也没关系，<strong>蔡格尼克效应</strong>会让你的大脑一直惦记着这个未完成的事，下一次深度工作时能更快进入状态。</p>
+<p><strong>方法二：在工作块之间安排重要的非工作任务</strong></p>
+<p>比如写完 1000 字的时间块后，安排吃早餐——如果不吃，后续的健身就会受影响，而健康是底线。</p>
+<p>有了这个「必须停下」的理由，你就不会在工作中磨洋工，效率会自然拉满。</p>
+<blockquote>
+<p>那些每天熬 16 小时、看似努力却注意力涣散的人，永远想不通：把生活安排得有优先级、有底线，才能在 4-6 小时里完成比他们更多的有效工作。</p>
+</blockquote>
+<h3>第三步：重视你的「精神新陈代谢」</h3>
+<p><strong>完整深度工作 Routine：</strong></p>
+<ol>
+<li><strong>按熵值从低到高安排时间块</strong>——清晨最安静，没有邮件、消息、手机干扰，精神熵最低，是深度工作的黄金时间，绝对不要浪费</li>
+<li><strong>2-3 个核心任务，对应 2-3 个时间块</strong>——不用强求一个时间块完成一个任务，只要时间块的压力能让你保持专注，就够了</li>
+<li><strong>完成深度工作后，再做浅层工作</strong>——<strong>划重点：没做完深度工作，绝对不要查邮件、刷社交、看消息！</strong></li>
+</ol>
+<h4>精神充电</h4>
+<p>大脑经过几小时的深度专注，消耗了 95% 的精力，需要补充「营养」，才能在第二天保持巅峰状态。</p>
+<p>我的下半场从来不是继续埋头工作，而是把大脑喂饱：</p>
+<ul>
+<li>出门散步</li>
+<li>读书</li>
+<li>和聪明人聊天</li>
+<li>和爱的人相处</li>
+<li>每周尝试新东西——新地方、新体验、新技能</li>
+</ul>
+<blockquote>
+<p>我大部分的工作，其实在真正开始工作前就完成了：清晨坐下时，我对要做的事有绝对的清晰，而这份清晰，都来自于我下半场的「精神充电」。</p>
+</blockquote>
+<h2>未来的护城河</h2>
+<p>AI 能做几乎所有事的未来，你的<strong>故事、思想整合、人生体验</strong>，才是你唯一的护城河。</p>
+<p>而这些东西，都不是靠熬时间、拼体力得来的，而是靠：</p>
+<ul>
+<li>你在深度工作中打磨的能力</li>
+<li>你在休息中积累的体验</li>
+<li>你把注意力投资在自己身上的每一刻</li>
+</ul>
+<p><strong>不用追求每天工作多久，不用羡慕那些看似忙碌的人。</strong></p>
+<blockquote>
+<p>每天留 1 小时极致专注，锚定 1 个愿景，做好 1 个核心项目，一步一个脚印。</p>
+<p>把注意力当成最珍贵的资产，拒绝精神熵的吞噬，让自己在清晰的方向中稳步前进。</p>
+</blockquote>6:[["$","$L4",null,{}],["$","main",null,{"className":"mx-auto max-w-3xl px-6 pt-32 pb-20 md:px-12","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-16","children":[["$","$L5",null,{"href":"/learning","className":"arrow-link mb-8 inline-flex text-sm text-[var(--color-text-secondary)] hover:text-[var(--color-accent)] transition-colors duration-200","children":[["$","span",null,{"className":"arrow-icon","children":"←"}]," Back to Learning"]}],["$","h1",null,{"className":"mt-6 font-serif text-4xl font-bold leading-tight tracking-tight text-[var(--color-text-primary)] md:text-5xl","children":"深度工作法：4小时完成8小时工作量的核心原则"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center gap-4","children":[["$","span",null,{"className":"text-sm text-[var(--color-text-secondary)]","children":"2026年7月10日"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","学习方法",{"className":"text-xs text-[var(--color-text-secondary)]","children":["#","学习方法"]}],["$","span","效率",{"className":"text-xs text-[var(--color-text-secondary)]","children":["#","效率"]}],["$","span","心流",{"className":"text-xs text-[var(--color-text-secondary)]","children":["#","心流"]}]]}]]}]]}],["$","div",null,{"className":"markdown-content","dangerouslySetInnerHTML":{"__html":"$11"}}]]}],"$L12"]}],"$L13"]
+12:["$","div",null,{"className":"mt-20 border-t border-[var(--color-border)] pt-8","children":["$","$L5",null,{"href":"/learning","className":"arrow-link text-sm font-medium text-[var(--color-text-secondary)] hover:text-[var(--color-accent)] transition-colors duration-200","children":[["$","span",null,{"className":"arrow-icon","children":"←"}]," Back to Learning"]}]}]
+13:["$","footer",null,{"className":"border-t border-[var(--color-border)] px-6 py-10 md:px-12","children":["$","div",null,{"className":"mx-auto flex max-w-6xl flex-col items-start justify-between gap-4 sm:flex-row sm:items-center","children":[["$","p",null,{"className":"text-sm text-[var(--color-text-secondary)]","children":"Built with care. © HSS"}],["$","div",null,{"className":"flex items-center gap-6","children":[["$","a",null,{"href":"https://github.com","target":"_blank","rel":"noopener noreferrer","className":"text-sm text-[var(--color-text-secondary)] hover-underline transition-colors duration-200","children":"GitHub"}],["$","$L5",null,{"href":"/new","className":"text-sm text-[var(--color-text-secondary)] hover-underline transition-colors duration-200","children":"New"}],["$","a",null,{"href":"/rss.xml","className":"text-sm text-[var(--color-text-secondary)] hover-underline transition-colors duration-200","children":"RSS"}]]}]]}]}]
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+e:[["$","title","0",{"children":"HSS Digital Garden"}],["$","meta","1",{"name":"description","content":"A personal digital garden — I learn, I think, I build."}]]

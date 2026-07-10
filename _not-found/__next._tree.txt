@@ -1,0 +1,2 @@
+:HL["/hss-digital-garden/_next/static/chunks/1sa0l7b9hs058.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"QvfJvM7Dra5qMHn1q7J7_"}
