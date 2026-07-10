@@ -1,0 +1,364 @@
+﻿/* ============================================
+   garden.css — 花园氛围 & 进阶交互增强
+   HSS Digital Garden
+   ============================================ */
+
+/* --- 1. 新 CSS 变量：花园扩展色板 --- */
+:root {
+  --garden-green-light: #d4e2d4;
+  --garden-green-mist: #e8f0e8;
+  --garden-green-dark: #5a7a5a;
+  --garden-warm-glow: rgba(196, 69, 54, 0.06);
+  --garden-leaf: #8ab17d;
+  --garden-floral: #e8c4c0;
+  --garden-earth: #c4a882;
+  --garden-shadow: rgba(26, 26, 26, 0.06);
+}
+
+/* --- 2. 全局微调 --- */
+body {
+  background-image: 
+    radial-gradient(ellipse 80% 60% at 50% -10%, rgba(212, 226, 212, 0.3) 0%, transparent 70%),
+    radial-gradient(ellipse 60% 40% at 80% 90%, rgba(232, 196, 192, 0.2) 0%, transparent 60%),
+    radial-gradient(ellipse 50% 30% at 10% 50%, rgba(196, 168, 130, 0.1) 0%, transparent 50%);
+  background-attachment: fixed;
+}
+
+::selection {
+  background: var(--garden-green-light);
+  color: var(--color-text-primary);
+}
+
+/* --- 3. 滚动进度条 --- */
+#scroll-progress {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 0%;
+  height: 2px;
+  background: linear-gradient(90deg, var(--garden-leaf), var(--color-accent));
+  z-index: 100;
+  transition: width 50ms linear;
+  will-change: width;
+}
+
+/* --- 4. Hero 花园氛围增强 --- */
+section:first-of-type {
+  position: relative;
+  overflow: hidden;
+}
+
+section:first-of-type::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: 
+    radial-gradient(ellipse 600px 400px at 20% 30%, rgba(138, 177, 125, 0.08) 0%, transparent 60%),
+    radial-gradient(ellipse 500px 500px at 80% 70%, rgba(196, 69, 54, 0.05) 0%, transparent 60%);
+  pointer-events: none;
+}
+
+/* --- 5. 装饰性叶片（纯 CSS） --- */
+/* 大型装饰叶 — 右上 */
+section:first-of-type::after {
+  content: '✦';
+  position: absolute;
+  top: 15%;
+  right: 8%;
+  font-size: 120px;
+  color: var(--garden-green-light);
+  opacity: 0.25;
+  pointer-events: none;
+  transform: rotate(15deg);
+  animation: leafFloat 8s ease-in-out infinite;
+}
+
+/* 第二片叶子用伪元素实现不了了，在 JS 里动态添加 */
+@keyframes leafFloat {
+  0%, 100% { transform: rotate(15deg) translateY(0); }
+  50% { transform: rotate(18deg) translateY(-15px); }
+}
+
+/* --- 6. 增强的 Hero 文字动画 --- */
+.hero-word {
+  animation-duration: 0.8s;
+  position: relative;
+  z-index: 1;
+}
+
+.hero-word:nth-child(1) { animation-delay: 0.1s; }
+.hero-word:nth-child(2) { animation-delay: 0.25s; }
+.hero-word:nth-child(3) { animation-delay: 0.4s; }
+
+/* "This is my digital garden" 增加温柔的下划线装饰 */
+h1 + .hero-word {
+  position: relative;
+}
+
+h1 + .hero-word::after {
+  content: '';
+  position: absolute;
+  bottom: -4px;
+  left: 0;
+  width: 60px;
+  height: 2px;
+  background: linear-gradient(90deg, var(--garden-leaf), transparent);
+  border-radius: 2px;
+}
+
+/* --- 7. 导航栏增强 --- */
+nav.fixed {
+  transition: background-color 0.3s ease, backdrop-filter 0.3s ease, box-shadow 0.3s ease;
+}
+
+nav.fixed.nav-scrolled {
+  background-color: rgba(253, 252, 250, 0.85) !important;
+  backdrop-filter: blur(16px) !important;
+  -webkit-backdrop-filter: blur(16px) !important;
+  box-shadow: 0 1px 0 var(--color-border);
+}
+
+/* --- 8. Module Cards 增强 --- */
+.module-card {
+  position: relative;
+  border-radius: 12px;
+  padding: 1.5rem;
+  margin: -0.5rem;
+  transition: transform 0.4s cubic-bezier(0.34, 1.56, 0.64, 1),
+              box-shadow 0.4s ease,
+              background 0.4s ease;
+}
+
+.module-card:hover {
+  transform: translateY(-6px) scale(1.01);
+  box-shadow: 
+    0 8px 30px rgba(138, 177, 125, 0.1),
+    0 2px 8px rgba(26, 26, 26, 0.04);
+  background: rgba(253, 252, 250, 0.8);
+}
+
+/* 卡片顶部装饰条 — 柔和渐变版 */
+.module-card[class*="border-t"] {
+  border-top-width: 0;
+}
+
+.module-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0.5rem;
+  right: 0.5rem;
+  height: 2px;
+  border-radius: 2px;
+  background: linear-gradient(90deg, var(--color-accent), var(--garden-leaf));
+  opacity: 0.3;
+  transition: opacity 0.3s ease, height 0.3s ease;
+}
+
+.module-card:hover::before {
+  opacity: 0.7;
+  height: 3px;
+}
+
+/* 每个模块不同的渐变起点 */
+.reveal:nth-child(1) .module-card::before {
+  background: linear-gradient(90deg, var(--color-accent), var(--garden-floral));
+}
+
+.reveal:nth-child(2) .module-card::before {
+  background: linear-gradient(90deg, var(--garden-green-dark), var(--garden-leaf));
+}
+
+.reveal:nth-child(3) .module-card::before {
+  background: linear-gradient(90deg, var(--garden-leaf), var(--garden-earth));
+}
+
+.reveal:nth-child(4) .module-card::before {
+  background: linear-gradient(90deg, var(--garden-floral), var(--color-accent));
+}
+
+/* --- 9. 文章链接增强 --- */
+.group {
+  border-radius: 8px;
+  padding: 0.75rem;
+  margin: -0.75rem;
+  transition: background 0.3s ease;
+}
+
+.group:hover {
+  background: rgba(212, 226, 212, 0.2);
+}
+
+/* --- 10. Reveal 动画增强 --- */
+.reveal {
+  opacity: 0;
+  transform: translateY(30px);
+  transition: opacity 0.8s cubic-bezier(0.22, 1, 0.36, 1),
+              transform 0.8s cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+.reveal.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Grid 中的卡片交错显现 */
+.grid > .reveal:nth-child(1) { transition-delay: 0s; }
+.grid > .reveal:nth-child(2) { transition-delay: 0.1s; }
+.grid > .reveal:nth-child(3) { transition-delay: 0.2s; }
+.grid > .reveal:nth-child(4) { transition-delay: 0.3s; }
+
+.space-y-12 > .reveal:nth-child(1) { transition-delay: 0s; }
+.space-y-12 > .reveal:nth-child(2) { transition-delay: 0.1s; }
+.space-y-12 > .reveal:nth-child(3) { transition-delay: 0.2s; }
+.space-y-12 > .reveal:nth-child(4) { transition-delay: 0.3s; }
+
+/* --- 11. Principles 区增强 --- */
+section:last-of-type .flex.gap-6 {
+  padding: 1.25rem;
+  border-radius: 12px;
+  transition: background 0.3s ease, transform 0.3s ease;
+}
+
+section:last-of-type .flex.gap-6:hover {
+  background: linear-gradient(135deg, rgba(212, 226, 212, 0.15), rgba(253, 252, 250, 0.5));
+  transform: translateX(6px);
+}
+
+/* Principles 编号增加装饰 */
+section:last-of-type .tabular-nums {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2rem;
+  height: 2rem;
+  border-radius: 50%;
+  font-size: 0.75rem;
+  font-weight: 600;
+  background: var(--garden-green-mist);
+  color: var(--garden-green-dark);
+  flex-shrink: 0;
+  margin-top: 0.125rem;
+  transition: background 0.3s ease, color 0.3s ease, transform 0.3s ease;
+}
+
+section:last-of-type .flex.gap-6:hover .tabular-nums {
+  background: var(--garden-leaf);
+  color: white;
+  transform: scale(1.1);
+}
+
+/* --- 12. 装饰性浮动元素（由 JS 动态创建） --- */
+.garden-deco {
+  position: fixed;
+  pointer-events: none;
+  opacity: 0.12;
+  z-index: 0;
+  animation: floatAnim var(--duration, 12s) ease-in-out infinite;
+  animation-delay: var(--delay, 0s);
+}
+
+.garden-deco-1 {
+  top: 20%;
+  left: 5%;
+  font-size: 2rem;
+}
+
+.garden-deco-2 {
+  bottom: 30%;
+  right: 3%;
+  font-size: 1.5rem;
+}
+
+.garden-deco-3 {
+  top: 60%;
+  left: 2%;
+  font-size: 1.2rem;
+}
+
+@keyframes floatAnim {
+  0%, 100% { 
+    transform: translateY(0) rotate(0deg); 
+  }
+  33% { 
+    transform: translateY(-12px) rotate(3deg); 
+  }
+  66% { 
+    transform: translateY(6px) rotate(-2deg); 
+  }
+}
+
+/* --- 13. 视觉分割符 --- */
+section + section::before {
+  content: '';
+  display: block;
+  max-width: 100px;
+  height: 1px;
+  margin: 0 auto;
+  background: linear-gradient(90deg, transparent, var(--garden-green-light), transparent);
+  margin-bottom: -1rem;
+}
+
+/* --- 14. Footer 增强 --- */
+footer {
+  position: relative;
+}
+
+footer::before {
+  content: '';
+  position: absolute;
+  top: -1px;
+  left: 10%;
+  right: 10%;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, var(--garden-green-light), var(--garden-floral), var(--garden-green-light), transparent);
+}
+
+/* --- 15. 鼠标跟随光晕（桌面端）--- */
+@media (hover: hover) {
+  .cursor-glow {
+    position: fixed;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    background: radial-gradient(circle, rgba(212, 226, 212, 0.08) 0%, transparent 70%);
+    pointer-events: none;
+    transform: translate(-50%, -50%);
+    z-index: -1;
+    will-change: transform;
+    transition: opacity 0.3s ease;
+  }
+}
+
+/* --- 16. 移动端适配 --- */
+@media (max-width: 768px) {
+  section:first-of-type::after {
+    font-size: 80px;
+    top: 10%;
+    right: 5%;
+  }
+  
+  .module-card {
+    padding: 1rem;
+    margin: -0.25rem;
+  }
+}
+
+/* --- 17. 减少运动偏好 --- */
+@media (prefers-reduced-motion: reduce) {
+  #scroll-progress,
+  .garden-deco,
+  .cursor-glow {
+    display: none;
+  }
+  
+  .reveal {
+    opacity: 1;
+    transform: none;
+    transition: none;
+  }
+  
+  section:first-of-type::after {
+    animation: none;
+  }
+}
