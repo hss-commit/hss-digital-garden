@@ -1,0 +1,65 @@
+1:"$Sreact.fragment"
+2:I[39756,["/hss-digital-garden/_next/static/chunks/05-c3ty_6dwfk.js","/hss-digital-garden/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+3:I[37457,["/hss-digital-garden/_next/static/chunks/05-c3ty_6dwfk.js","/hss-digital-garden/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+4:I[84834,["/hss-digital-garden/_next/static/chunks/05-c3ty_6dwfk.js","/hss-digital-garden/_next/static/chunks/14mrh2-p_w84d.js","/hss-digital-garden/_next/static/chunks/3xs6rg-g7tqe8.js"],"default"]
+5:I[22016,["/hss-digital-garden/_next/static/chunks/05-c3ty_6dwfk.js","/hss-digital-garden/_next/static/chunks/14mrh2-p_w84d.js","/hss-digital-garden/_next/static/chunks/3xs6rg-g7tqe8.js"],""]
+7:I[97367,["/hss-digital-garden/_next/static/chunks/05-c3ty_6dwfk.js","/hss-digital-garden/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+b:I[97367,["/hss-digital-garden/_next/static/chunks/05-c3ty_6dwfk.js","/hss-digital-garden/_next/static/chunks/14mrh2-p_w84d.js"],"ViewportBoundary"]
+d:I[97367,["/hss-digital-garden/_next/static/chunks/05-c3ty_6dwfk.js","/hss-digital-garden/_next/static/chunks/14mrh2-p_w84d.js"],"MetadataBoundary"]
+f:I[68027,["/hss-digital-garden/_next/static/chunks/05-c3ty_6dwfk.js","/hss-digital-garden/_next/static/chunks/14mrh2-p_w84d.js"],"default",1]
+:HL["/hss-digital-garden/_next/static/chunks/1sa0l7b9hs058.css","style"]
+:HL["/hss-digital-garden/_next/static/media/2a65768255d6b625-s.p.3u4lli0-axodc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/hss-digital-garden/_next/static/media/47df9ba1c7236d3b-s.p.137759vg1sbmi.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","knowledge","zero-sum-game"],"q":"","i":false,"f":[[["",{"children":["knowledge",{"children":[["slug","zero-sum-game","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/hss-digital-garden/_next/static/chunks/1sa0l7b9hs058.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/hss-digital-garden/_next/static/chunks/05-c3ty_6dwfk.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/hss-digital-garden/_next/static/chunks/14mrh2-p_w84d.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","className":"playfair_display_fa6c7a-module__e6LDAG__variable source_sans_3_ad774026-module__O-6XCW__variable","children":["$","body",null,{"className":"font-sans","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","$L4",null,{}],["$","main",null,{"className":"mx-auto flex max-w-3xl flex-col items-center justify-center px-6 pt-40 pb-20 text-center md:px-12","children":[["$","h1",null,{"className":"font-serif text-7xl font-bold text-[var(--color-text-primary)]","children":"404"}],["$","p",null,{"className":"mt-4 text-lg text-[var(--color-text-secondary)]","children":"This page doesn't exist yet."}],["$","$L5",null,{"href":"/","className":"arrow-link mt-8 text-sm font-medium text-[var(--color-text-secondary)] hover:text-[var(--color-accent)] transition-colors duration-200","children":[["$","span",null,{"className":"arrow-icon","children":"←"}]," Back home"]}]]}],["$","footer",null,{"className":"border-t border-[var(--color-border)] px-6 py-10 md:px-12","children":["$","div",null,{"className":"mx-auto flex max-w-6xl flex-col items-start justify-between gap-4 sm:flex-row sm:items-center","children":[["$","p",null,{"className":"text-sm text-[var(--color-text-secondary)]","children":"Built with care. © HSS"}],["$","div",null,{"className":"flex items-center gap-6","children":[["$","a",null,{"href":"https://github.com","target":"_blank","rel":"noopener noreferrer","className":"text-sm text-[var(--color-text-secondary)] hover-underline transition-colors duration-200","children":"GitHub"}],["$","$L5",null,{"href":"/new","className":"text-sm text-[var(--color-text-secondary)] hover-underline transition-colors duration-200","children":"New"}],["$","a",null,{"href":"/rss.xml","className":"text-sm text-[var(--color-text-secondary)] hover-underline transition-colors duration-200","children":"RSS"}]]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L6",[["$","script","script-0",{"src":"/hss-digital-garden/_next/static/chunks/3xs6rg-g7tqe8.js","async":true,"nonce":"$undefined"}]],["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]]}],{},null,false,null]},null,false,"$@a"]},null,false,"$@a"]},null,false,null],["$","$1","h",{"children":[null,["$","$Lb",null,{"children":"$Lc"}],["$","div",null,{"hidden":true,"children":["$","$Ld",null,{"children":["$","$8",null,{"name":"Next.Metadata","children":"$Le"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$f",[["$","link","0",{"rel":"stylesheet","href":"/hss-digital-garden/_next/static/chunks/1sa0l7b9hs058.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"QvfJvM7Dra5qMHn1q7J7_"}
+10:[]
+a:"$W10"
+11:Tb38,<h2>什么是零和博弈</h2>
+<p>零和博弈（Zero-Sum Game）是博弈论里最基础也最残酷的概念。</p>
+<blockquote>
+<p>在一场竞争里，<strong>赢家赢的正好等于输家输的</strong>，两个人的利益加起来总和永远是零。</p>
+</blockquote>
+<h2>最简单的比方</h2>
+<p>咱俩打扑克赌钱，桌子上就这 100 块钱。我要是赢了 50，你肯定就输了 50。</p>
+<p>钱不会凭空变多，也不会凭空变少。只是<strong>从你的口袋跑到了我的口袋</strong>。</p>
+<h2>现实中的零和场景</h2>
+<p>| 场景 | 为什么零和 |
+|------|-----------|
+| <strong>短线炒股</strong> | 有人赚大钱，就一定有人高位站岗赔钱 |
+| <strong>考公务员</strong> | 岗位就一个，他考上了你就落榜了 |
+| <strong>奥运会百米赛跑</strong> | 金牌只有一块，冠军笑了，亚军就只能哭了 |</p>
+<p>在这些特定的规则和瞬间里，<strong>资源是无法扩展的</strong>。竞争者之间就是赤裸裸的零和关系。</p>
+<h2>零和博弈的思维陷阱</h2>
+<p>零和博弈是一种<strong>封闭系统的思维</strong>。它假设了万物皆有定数，想得到的唯一办法就是去抢别人的。</p>
+<blockquote>
+<p>你要砍树，我护林。咱俩斗了这么多年，除了弄得一身伤，森林也没变大，你的钱也没攒下。</p>
+</blockquote>
+<p>如果一直抱着这种思维，就永远在内耗。</p>
+<h2>正和博弈：打破零和的怪圈</h2>
+<p>但高智商的人都在努力把零和变成<strong>正和</strong>（Positive-Sum）。</p>
+<p>| 零和思维 | 正和思维 |
+|----------|----------|
+| 你赚了就是我亏了 | 咱俩交换特产，大家日子都好过 |
+| 死对头，你死我活 | 联手搞森林生态游，我收门票，你当吉祥物，咱俩都能赚钱 |</p>
+<p><strong>贸易</strong>就是最典型的正和博弈。以前觉得你赚了就是我亏了，后来发现交换特产之后，双方都能获益。</p>
+<h2>核心启示</h2>
+<blockquote>
+<p><strong>看清零和博弈是为了认清竞争的残酷。但努力打破零和博弈，去寻找增量，那才是大智慧。</strong></p>
+</blockquote>
+<ul>
+<li>零和博弈是<strong>客观存在</strong>的——在资源固定、规则封闭的场景下，竞争不可避免</li>
+<li>但零和博弈<strong>不是唯一选择</strong>——通过合作、创新、贸易，可以把蛋糕做大</li>
+<li><strong>聪明的做法</strong>：在必须竞争时全力以赴，在可以合作时寻找共赢</li>
+</ul>
+<h2>检验标准</h2>
+<p>判断一个场景是零和还是正和，看一个标准：</p>
+<blockquote>
+<p><strong>交易之后，双方的处境是不是都比交易之前更好了？</strong></p>
+<p>如果是——正和博弈。</p>
+<p>如果不是，一方之得等于另一方之失——零和博弈。</p>
+</blockquote>6:[["$","$L4",null,{}],["$","main",null,{"className":"mx-auto max-w-3xl px-6 pt-32 pb-20 md:px-12","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-16","children":[["$","$L5",null,{"href":"/knowledge","className":"arrow-link mb-8 inline-flex text-sm text-[var(--color-text-secondary)] hover:text-[var(--color-accent)] transition-colors duration-200","children":[["$","span",null,{"className":"arrow-icon","children":"←"}]," Back to Knowledge"]}],["$","h1",null,{"className":"mt-6 font-serif text-4xl font-bold leading-tight tracking-tight text-[var(--color-text-primary)] md:text-5xl","children":"零和博弈与正和博弈：竞争的本质与增量思维"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center gap-4","children":[["$","span",null,{"className":"text-sm text-[var(--color-text-secondary)]","children":"2026年7月10日"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","博弈论",{"className":"text-xs text-[var(--color-text-secondary)]","children":["#","博弈论"]}],["$","span","经济学思维",{"className":"text-xs text-[var(--color-text-secondary)]","children":["#","经济学思维"]}],["$","span","竞争与合作",{"className":"text-xs text-[var(--color-text-secondary)]","children":["#","竞争与合作"]}]]}]]}]]}],["$","div",null,{"className":"markdown-content","dangerouslySetInnerHTML":{"__html":"$11"}}]]}],["$","div",null,{"className":"mt-20 border-t border-[var(--color-border)] pt-8","children":["$","$L5",null,{"href":"/knowledge","className":"arrow-link text-sm font-medium text-[var(--color-text-secondary)] hover:text-[var(--color-accent)] transition-colors duration-200","children":[["$","span",null,{"className":"arrow-icon","children":"←"}]," Back to Knowledge"]}]}]]}],["$","footer",null,{"className":"border-t border-[var(--color-border)] px-6 py-10 md:px-12","children":["$","div",null,{"className":"mx-auto flex max-w-6xl flex-col items-start justify-between gap-4 sm:flex-row sm:items-center","children":[["$","p",null,{"className":"text-sm text-[var(--color-text-secondary)]","children":"Built with care. © HSS"}],["$","div",null,{"className":"flex items-center gap-6","children":[["$","a",null,{"href":"https://github.com","target":"_blank","rel":"noopener noreferrer","className":"text-sm text-[var(--color-text-secondary)] hover-underline transition-colors duration-200","children":"GitHub"}],"$L12","$L13"]}]]}]}]]
+12:["$","$L5",null,{"href":"/new","className":"text-sm text-[var(--color-text-secondary)] hover-underline transition-colors duration-200","children":"New"}]
+13:["$","a",null,{"href":"/rss.xml","className":"text-sm text-[var(--color-text-secondary)] hover-underline transition-colors duration-200","children":"RSS"}]
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+e:[["$","title","0",{"children":"HSS Digital Garden"}],["$","meta","1",{"name":"description","content":"A personal digital garden — I learn, I think, I build."}]]

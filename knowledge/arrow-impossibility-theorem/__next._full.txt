@@ -1,0 +1,75 @@
+1:"$Sreact.fragment"
+2:I[39756,["/hss-digital-garden/_next/static/chunks/05-c3ty_6dwfk.js","/hss-digital-garden/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+3:I[37457,["/hss-digital-garden/_next/static/chunks/05-c3ty_6dwfk.js","/hss-digital-garden/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+4:I[84834,["/hss-digital-garden/_next/static/chunks/05-c3ty_6dwfk.js","/hss-digital-garden/_next/static/chunks/14mrh2-p_w84d.js","/hss-digital-garden/_next/static/chunks/3xs6rg-g7tqe8.js"],"default"]
+5:I[22016,["/hss-digital-garden/_next/static/chunks/05-c3ty_6dwfk.js","/hss-digital-garden/_next/static/chunks/14mrh2-p_w84d.js","/hss-digital-garden/_next/static/chunks/3xs6rg-g7tqe8.js"],""]
+7:I[97367,["/hss-digital-garden/_next/static/chunks/05-c3ty_6dwfk.js","/hss-digital-garden/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+b:I[97367,["/hss-digital-garden/_next/static/chunks/05-c3ty_6dwfk.js","/hss-digital-garden/_next/static/chunks/14mrh2-p_w84d.js"],"ViewportBoundary"]
+d:I[97367,["/hss-digital-garden/_next/static/chunks/05-c3ty_6dwfk.js","/hss-digital-garden/_next/static/chunks/14mrh2-p_w84d.js"],"MetadataBoundary"]
+f:I[68027,["/hss-digital-garden/_next/static/chunks/05-c3ty_6dwfk.js","/hss-digital-garden/_next/static/chunks/14mrh2-p_w84d.js"],"default",1]
+:HL["/hss-digital-garden/_next/static/chunks/1sa0l7b9hs058.css","style"]
+:HL["/hss-digital-garden/_next/static/media/2a65768255d6b625-s.p.3u4lli0-axodc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/hss-digital-garden/_next/static/media/47df9ba1c7236d3b-s.p.137759vg1sbmi.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","knowledge","arrow-impossibility-theorem"],"q":"","i":false,"f":[[["",{"children":["knowledge",{"children":[["slug","arrow-impossibility-theorem","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/hss-digital-garden/_next/static/chunks/1sa0l7b9hs058.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/hss-digital-garden/_next/static/chunks/05-c3ty_6dwfk.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/hss-digital-garden/_next/static/chunks/14mrh2-p_w84d.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","className":"playfair_display_fa6c7a-module__e6LDAG__variable source_sans_3_ad774026-module__O-6XCW__variable","children":["$","body",null,{"className":"font-sans","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","$L4",null,{}],["$","main",null,{"className":"mx-auto flex max-w-3xl flex-col items-center justify-center px-6 pt-40 pb-20 text-center md:px-12","children":[["$","h1",null,{"className":"font-serif text-7xl font-bold text-[var(--color-text-primary)]","children":"404"}],["$","p",null,{"className":"mt-4 text-lg text-[var(--color-text-secondary)]","children":"This page doesn't exist yet."}],["$","$L5",null,{"href":"/","className":"arrow-link mt-8 text-sm font-medium text-[var(--color-text-secondary)] hover:text-[var(--color-accent)] transition-colors duration-200","children":[["$","span",null,{"className":"arrow-icon","children":"←"}]," Back home"]}]]}],["$","footer",null,{"className":"border-t border-[var(--color-border)] px-6 py-10 md:px-12","children":["$","div",null,{"className":"mx-auto flex max-w-6xl flex-col items-start justify-between gap-4 sm:flex-row sm:items-center","children":[["$","p",null,{"className":"text-sm text-[var(--color-text-secondary)]","children":"Built with care. © HSS"}],["$","div",null,{"className":"flex items-center gap-6","children":[["$","a",null,{"href":"https://github.com","target":"_blank","rel":"noopener noreferrer","className":"text-sm text-[var(--color-text-secondary)] hover-underline transition-colors duration-200","children":"GitHub"}],["$","$L5",null,{"href":"/new","className":"text-sm text-[var(--color-text-secondary)] hover-underline transition-colors duration-200","children":"New"}],["$","a",null,{"href":"/rss.xml","className":"text-sm text-[var(--color-text-secondary)] hover-underline transition-colors duration-200","children":"RSS"}]]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L6",[["$","script","script-0",{"src":"/hss-digital-garden/_next/static/chunks/3xs6rg-g7tqe8.js","async":true,"nonce":"$undefined"}]],["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]]}],{},null,false,null]},null,false,"$@a"]},null,false,"$@a"]},null,false,null],["$","$1","h",{"children":[null,["$","$Lb",null,{"children":"$Lc"}],["$","div",null,{"hidden":true,"children":["$","$Ld",null,{"children":["$","$8",null,{"name":"Next.Metadata","children":"$Le"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$f",[["$","link","0",{"rel":"stylesheet","href":"/hss-digital-garden/_next/static/chunks/1sa0l7b9hs058.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"QvfJvM7Dra5qMHn1q7J7_"}
+10:[]
+a:"$W10"
+11:T1004,<h2>一个看似合理的信念</h2>
+<p>「只要投票规则设计得足够公平，就一定能得出一个让所有人都接受的完美结果。」</p>
+<p>这个信念在 1951 年被彻底推翻。</p>
+<h2>阿罗不可能定理</h2>
+<p>美国经济学家肯尼斯·阿罗（Kenneth Arrow）在他的博士论文中证明了一个颠覆政治哲学根基的定理，后来被称为<strong>阿罗不可能定理</strong>。这个定理为他在 1972 年赢得了诺贝尔经济学奖。</p>
+<h2>四条公理</h2>
+<p>当至少存在 3 个候选方案且至少有 2 个投票人时，没有任何一种投票制度能够同时满足以下 4 条最基本的公平公理：</p>
+<h3>1. 无限制域（Unrestricted Domain）</h3>
+<p>允许任何逻辑上可能的个人偏好排序。</p>
+<h3>2. 帕累托效率（Pareto Efficiency）</h3>
+<p>如果所有人都认为 A 优于 B，则社会排序也应当 A 优于 B。</p>
+<h3>3. 独立于无关选项（Independence of Irrelevant Alternatives）</h3>
+<p>A 和 B 的社会排序应当只取决于每个人对 A 和 B 的排序，不应受某个第三选项 C 的插入干扰。</p>
+<h3>4. 非独裁性（Non-Dictatorship）</h3>
+<p>不存在某一个人，使得无论他想要什么，社会排序就自动追随他的个人偏好。</p>
+<h2>阿罗的核心结论</h2>
+<p><strong>这 4 条公理无法同时兼容。</strong> 任何企图满足全部 4 条公理的投票制度，必然会导致逻辑悖论。</p>
+<h2>孔多塞悖论：最经典的寓言</h2>
+<p>早在 1785 年，法国数学家孔多塞就发现了这个悖论。</p>
+<p>假设有 3 个投票者：甲、乙、丙。面对 3 个候选人 A、B、C：</p>
+<p>| 投票者 | 偏好排序 |
+|--------|----------|
+| 甲 | A > B > C |
+| 乙 | B > C > A |
+| 丙 | C > A > B |</p>
+<p>用最民主的一人一票制，两两对决：</p>
+<ul>
+<li><strong>A 对 B</strong>：甲和丙都认为 A 优于 B → <strong>A 胜</strong></li>
+<li><strong>B 对 C</strong>：甲和乙都认为 B 优于 C → <strong>B 胜</strong></li>
+</ul>
+<p>按照传递性的直觉，如果 A 胜 B 且 B 胜 C，那么社会偏好应当是 <strong>A 优于 C</strong>。</p>
+<p>但当你真的让 <strong>A 和 C 对决</strong>时：乙和丙都认为 C 优于 A → <strong>C 胜</strong>。</p>
+<p>社会偏好形成了一个<strong>闭合的循环</strong>：</p>
+<blockquote>
+<p>A 优于 B → B 优于 C → C 优于 A</p>
+</blockquote>
+<p>这个循环不是任何人的错，没有人在撒谎，没有人改变立场。只是三个完全理性的个体偏好被民主加总之后，社会的集体意志竟变成了一条<strong>咬住自己尾巴的蛇</strong>。</p>
+<h2>阿罗的完整证明</h2>
+<p>阿罗的贡献在于用严格的数学语言证明：</p>
+<ul>
+<li>如果我们坚持社会选择必须像理性个体一样具有<strong>传递性</strong>（即不允许出现孔多塞循环），那么任何满足前 3 条公理的规则都必然导致<strong>独裁</strong></li>
+<li>而如果我们为避免独裁而允许循环，就<strong>违背了理性决策的基本要求</strong></li>
+</ul>
+<p>这正是孔多塞悖论在逻辑上的彻底普遍化。</p>
+<h2>对人生的启示</h2>
+<p>你以为人生中的重大决策——选城市、选职业、选伴侣——可以召集所有在乎的因素（收入、热爱、稳定、自由）一起来投票，只要规则设计得足够民主，就能得出一个让自己无悔的结果。</p>
+<p>可阿罗不可能定理告诉你：当你面对至少 3 个选项时，这些偏好之间会产生<strong>无法消除的循环</strong>：</p>
+<blockquote>
+<p>收入优于热爱 → 热爱优于稳定 → 稳定又优于收入</p>
+</blockquote>
+<p>你无法同时满足所有公理。总有一个因素会被牺牲，或者你必须任命一个独裁者——那个你偷偷赋予最高权重的标准。</p>
+<h2>核心结论</h2>
+<p>人生的悖论从来不是「选错了」，而是<strong>无论你用什么投票规则，都会有一个合理的选项被无理地排除</strong>。</p>
+<p>接受这个事实，你才敢拍板。</p>6:[["$","$L4",null,{}],["$","main",null,{"className":"mx-auto max-w-3xl px-6 pt-32 pb-20 md:px-12","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-16","children":[["$","$L5",null,{"href":"/knowledge","className":"arrow-link mb-8 inline-flex text-sm text-[var(--color-text-secondary)] hover:text-[var(--color-accent)] transition-colors duration-200","children":[["$","span",null,{"className":"arrow-icon","children":"←"}]," Back to Knowledge"]}],["$","h1",null,{"className":"mt-6 font-serif text-4xl font-bold leading-tight tracking-tight text-[var(--color-text-primary)] md:text-5xl","children":"阿罗不可能定理：为什么民主投票无法得出完美结果"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center gap-4","children":[["$","span",null,{"className":"text-sm text-[var(--color-text-secondary)]","children":"2026年7月10日"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","决策理论",{"className":"text-xs text-[var(--color-text-secondary)]","children":["#","决策理论"]}],["$","span","经济学",{"className":"text-xs text-[var(--color-text-secondary)]","children":["#","经济学"]}],["$","span","认知偏差",{"className":"text-xs text-[var(--color-text-secondary)]","children":["#","认知偏差"]}]]}]]}]]}],["$","div",null,{"className":"markdown-content","dangerouslySetInnerHTML":{"__html":"$11"}}]]}],["$","div",null,{"className":"mt-20 border-t border-[var(--color-border)] pt-8","children":["$","$L5",null,{"href":"/knowledge","className":"arrow-link text-sm font-medium text-[var(--color-text-secondary)] hover:text-[var(--color-accent)] transition-colors duration-200","children":["$L12"," Back to Knowledge"]}]}]]}],"$L13"]
+12:["$","span",null,{"className":"arrow-icon","children":"←"}]
+13:["$","footer",null,{"className":"border-t border-[var(--color-border)] px-6 py-10 md:px-12","children":["$","div",null,{"className":"mx-auto flex max-w-6xl flex-col items-start justify-between gap-4 sm:flex-row sm:items-center","children":[["$","p",null,{"className":"text-sm text-[var(--color-text-secondary)]","children":"Built with care. © HSS"}],["$","div",null,{"className":"flex items-center gap-6","children":[["$","a",null,{"href":"https://github.com","target":"_blank","rel":"noopener noreferrer","className":"text-sm text-[var(--color-text-secondary)] hover-underline transition-colors duration-200","children":"GitHub"}],["$","$L5",null,{"href":"/new","className":"text-sm text-[var(--color-text-secondary)] hover-underline transition-colors duration-200","children":"New"}],["$","a",null,{"href":"/rss.xml","className":"text-sm text-[var(--color-text-secondary)] hover-underline transition-colors duration-200","children":"RSS"}]]}]]}]}]
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+e:[["$","title","0",{"children":"HSS Digital Garden"}],["$","meta","1",{"name":"description","content":"A personal digital garden — I learn, I think, I build."}]]

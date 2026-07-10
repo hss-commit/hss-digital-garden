@@ -1,0 +1,65 @@
+1:"$Sreact.fragment"
+2:I[84834,["/hss-digital-garden/_next/static/chunks/05-c3ty_6dwfk.js","/hss-digital-garden/_next/static/chunks/14mrh2-p_w84d.js","/hss-digital-garden/_next/static/chunks/3xs6rg-g7tqe8.js"],"default"]
+3:I[22016,["/hss-digital-garden/_next/static/chunks/05-c3ty_6dwfk.js","/hss-digital-garden/_next/static/chunks/14mrh2-p_w84d.js","/hss-digital-garden/_next/static/chunks/3xs6rg-g7tqe8.js"],""]
+9:I[97367,["/hss-digital-garden/_next/static/chunks/05-c3ty_6dwfk.js","/hss-digital-garden/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+4:Td6c,<h2>一个反直觉的问题</h2>
+<p>投 4 次硬币，结果是「正正正正」和「正反反正」的概率哪个大？</p>
+<p>学过数学的都知道：<strong>一样大，都是 (1/2)⁴ = 1/16。</strong></p>
+<p>那我们来玩个游戏：抛硬币，各自选一个长度为 3 的序列，比如「正正正」或「正反正」。一直抛，<strong>谁的序列先出现，谁就赢。</strong></p>
+<p>既然是公平的，那先选的人应该占优？</p>
+<p><strong>错。这叫彭尼游戏（Penney's Game），是个典型的后手优势局。</strong></p>
+<h2>占优策略</h2>
+<p>不管先手选什么，比如 ABC，后手的占优策略是：</p>
+<blockquote>
+<p><strong>选「非B + AB」</strong></p>
+<p>把第二个硬币取反，放到最前面，后面再接上前两个硬币。</p>
+</blockquote>
+<p><strong>例子：</strong></p>
+<ul>
+<li>先手选「正正反」（A=正, B=正, C=反）</li>
+<li>后手选「反正正」（非B=反, A=正, B=正）</li>
+</ul>
+<p>这样做之后，<strong>后手的胜率能达到 75% 左右。</strong></p>
+<h2>原理：前缀阻塞</h2>
+<p>你想赢「正正反」，是不是必须先凑出前两个「正正」？</p>
+<p><strong>讲究就在这儿了。</strong></p>
+<h3>关键洞察</h3>
+<p>在长长的硬币队列里，找到<strong>第一次出现的连续正正</strong>。</p>
+<p>既然不是开局那两个，那它前面肯定紧挨着一个硬币。这个前置位只可能是<strong>反</strong>——你想，如果前面那个是「正」，连起来就是「正正正」，第一次出现的「正正」就变成前面那两个了。</p>
+<p><strong>所以只要不是开局第一次出现的，「正正」的前一个必定是「反」。</strong></p>
+<p>这直接就帮后手凑出了一个「反正正」。</p>
+<h3>必死逻辑</h3>
+<p>后手就像个守门员：</p>
+<ul>
+<li><strong>开场哨响那一瞬间</strong>，可能不在状态（先手开局就投出「正正」）</li>
+<li><strong>之后</strong>，先手每一个想进球的动作，其实都是先帮后手把球踢进了自己的大门</li>
+</ul>
+<p>先手想赢，可能的结果只有：</p>
+<ul>
+<li>正正反（开局直接命中）</li>
+<li>正正反正正（先帮后手凑出「反正正」）</li>
+<li>正正反正正反正正（再次帮后手）</li>
+<li>……</li>
+</ul>
+<p><strong>一旦开局没有投出「正正」，赢的百分百是后手。</strong></p>
+<p>当然，一旦开局投出了「正正」，赢的也百分百是先手——但这个概率只有 25%。</p>
+<h2>非传递性博弈</h2>
+<p>如果先手换别的序列呢？</p>
+<p><strong>没用。</strong> 这叫<strong>非传递性博弈</strong>（Non-transitive Game）：</p>
+<blockquote>
+<p>A 能赢 B，B 能赢 C，但 C 能赢 A。没有「最强」的策略，只有「克制关系」。</p>
+</blockquote>
+<p>后手总能找到克制先手的序列。</p>
+<h2>核心启示</h2>
+<p>你的<strong>直觉</strong>告诉你：硬币是公平的，所以游戏也是公平的。</p>
+<p>但<strong>数学</strong>告诉你：<strong>知道你的顺序本身就是一种信息优势。</strong></p>
+<p>在随机性的表象之下，隐藏着确定性的规律。真正的高手不是去质疑硬币是否被动了手脚，而是去发现<strong>规则本身的不对称性</strong>。</p>
+<blockquote>
+<p><strong>公平的不是工具，而是你对工具的理解深度。</strong></p>
+</blockquote>0:{"rsc":["$","$1","c",{"children":[[["$","$L2",null,{}],["$","main",null,{"className":"mx-auto max-w-3xl px-6 pt-32 pb-20 md:px-12","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-16","children":[["$","$L3",null,{"href":"/knowledge","className":"arrow-link mb-8 inline-flex text-sm text-[var(--color-text-secondary)] hover:text-[var(--color-accent)] transition-colors duration-200","children":[["$","span",null,{"className":"arrow-icon","children":"←"}]," Back to Knowledge"]}],["$","h1",null,{"className":"mt-6 font-serif text-4xl font-bold leading-tight tracking-tight text-[var(--color-text-primary)] md:text-5xl","children":"彭尼游戏：为什么公平硬币下的博弈并不公平"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center gap-4","children":[["$","span",null,{"className":"text-sm text-[var(--color-text-secondary)]","children":"2026年7月10日"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","概率论",{"className":"text-xs text-[var(--color-text-secondary)]","children":["#","概率论"]}],["$","span","博弈论",{"className":"text-xs text-[var(--color-text-secondary)]","children":["#","博弈论"]}],["$","span","非传递性博弈",{"className":"text-xs text-[var(--color-text-secondary)]","children":["#","非传递性博弈"]}]]}]]}]]}],["$","div",null,{"className":"markdown-content","dangerouslySetInnerHTML":{"__html":"$4"}}]]}],["$","div",null,{"className":"mt-20 border-t border-[var(--color-border)] pt-8","children":["$","$L3",null,{"href":"/knowledge","className":"arrow-link text-sm font-medium text-[var(--color-text-secondary)] hover:text-[var(--color-accent)] transition-colors duration-200","children":[["$","span",null,{"className":"arrow-icon","children":"←"}]," Back to Knowledge"]}]}]]}],["$","footer",null,{"className":"border-t border-[var(--color-border)] px-6 py-10 md:px-12","children":["$","div",null,{"className":"mx-auto flex max-w-6xl flex-col items-start justify-between gap-4 sm:flex-row sm:items-center","children":["$L5","$L6"]}]}]],["$L7"],"$L8"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"QvfJvM7Dra5qMHn1q7J7_"}
+5:["$","p",null,{"className":"text-sm text-[var(--color-text-secondary)]","children":"Built with care. © HSS"}]
+6:["$","div",null,{"className":"flex items-center gap-6","children":[["$","a",null,{"href":"https://github.com","target":"_blank","rel":"noopener noreferrer","className":"text-sm text-[var(--color-text-secondary)] hover-underline transition-colors duration-200","children":"GitHub"}],["$","$L3",null,{"href":"/new","className":"text-sm text-[var(--color-text-secondary)] hover-underline transition-colors duration-200","children":"New"}],["$","a",null,{"href":"/rss.xml","className":"text-sm text-[var(--color-text-secondary)] hover-underline transition-colors duration-200","children":"RSS"}]]}]
+7:["$","script","script-0",{"src":"/hss-digital-garden/_next/static/chunks/3xs6rg-g7tqe8.js","async":true}]
+8:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null

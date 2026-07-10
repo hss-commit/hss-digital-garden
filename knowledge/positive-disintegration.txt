@@ -1,0 +1,74 @@
+1:"$Sreact.fragment"
+2:I[39756,["/hss-digital-garden/_next/static/chunks/05-c3ty_6dwfk.js","/hss-digital-garden/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+3:I[37457,["/hss-digital-garden/_next/static/chunks/05-c3ty_6dwfk.js","/hss-digital-garden/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+4:I[84834,["/hss-digital-garden/_next/static/chunks/05-c3ty_6dwfk.js","/hss-digital-garden/_next/static/chunks/14mrh2-p_w84d.js","/hss-digital-garden/_next/static/chunks/3xs6rg-g7tqe8.js"],"default"]
+5:I[22016,["/hss-digital-garden/_next/static/chunks/05-c3ty_6dwfk.js","/hss-digital-garden/_next/static/chunks/14mrh2-p_w84d.js","/hss-digital-garden/_next/static/chunks/3xs6rg-g7tqe8.js"],""]
+7:I[97367,["/hss-digital-garden/_next/static/chunks/05-c3ty_6dwfk.js","/hss-digital-garden/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+b:I[97367,["/hss-digital-garden/_next/static/chunks/05-c3ty_6dwfk.js","/hss-digital-garden/_next/static/chunks/14mrh2-p_w84d.js"],"ViewportBoundary"]
+d:I[97367,["/hss-digital-garden/_next/static/chunks/05-c3ty_6dwfk.js","/hss-digital-garden/_next/static/chunks/14mrh2-p_w84d.js"],"MetadataBoundary"]
+f:I[68027,["/hss-digital-garden/_next/static/chunks/05-c3ty_6dwfk.js","/hss-digital-garden/_next/static/chunks/14mrh2-p_w84d.js"],"default",1]
+:HL["/hss-digital-garden/_next/static/chunks/1sa0l7b9hs058.css","style"]
+:HL["/hss-digital-garden/_next/static/media/2a65768255d6b625-s.p.3u4lli0-axodc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/hss-digital-garden/_next/static/media/47df9ba1c7236d3b-s.p.137759vg1sbmi.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","knowledge","positive-disintegration"],"q":"","i":false,"f":[[["",{"children":["knowledge",{"children":[["slug","positive-disintegration","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/hss-digital-garden/_next/static/chunks/1sa0l7b9hs058.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/hss-digital-garden/_next/static/chunks/05-c3ty_6dwfk.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/hss-digital-garden/_next/static/chunks/14mrh2-p_w84d.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","className":"playfair_display_fa6c7a-module__e6LDAG__variable source_sans_3_ad774026-module__O-6XCW__variable","children":["$","body",null,{"className":"font-sans","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","$L4",null,{}],["$","main",null,{"className":"mx-auto flex max-w-3xl flex-col items-center justify-center px-6 pt-40 pb-20 text-center md:px-12","children":[["$","h1",null,{"className":"font-serif text-7xl font-bold text-[var(--color-text-primary)]","children":"404"}],["$","p",null,{"className":"mt-4 text-lg text-[var(--color-text-secondary)]","children":"This page doesn't exist yet."}],["$","$L5",null,{"href":"/","className":"arrow-link mt-8 text-sm font-medium text-[var(--color-text-secondary)] hover:text-[var(--color-accent)] transition-colors duration-200","children":[["$","span",null,{"className":"arrow-icon","children":"←"}]," Back home"]}]]}],["$","footer",null,{"className":"border-t border-[var(--color-border)] px-6 py-10 md:px-12","children":["$","div",null,{"className":"mx-auto flex max-w-6xl flex-col items-start justify-between gap-4 sm:flex-row sm:items-center","children":[["$","p",null,{"className":"text-sm text-[var(--color-text-secondary)]","children":"Built with care. © HSS"}],["$","div",null,{"className":"flex items-center gap-6","children":[["$","a",null,{"href":"https://github.com","target":"_blank","rel":"noopener noreferrer","className":"text-sm text-[var(--color-text-secondary)] hover-underline transition-colors duration-200","children":"GitHub"}],["$","$L5",null,{"href":"/new","className":"text-sm text-[var(--color-text-secondary)] hover-underline transition-colors duration-200","children":"New"}],["$","a",null,{"href":"/rss.xml","className":"text-sm text-[var(--color-text-secondary)] hover-underline transition-colors duration-200","children":"RSS"}]]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L6",[["$","script","script-0",{"src":"/hss-digital-garden/_next/static/chunks/3xs6rg-g7tqe8.js","async":true,"nonce":"$undefined"}]],["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]]}],{},null,false,null]},null,false,"$@a"]},null,false,"$@a"]},null,false,null],["$","$1","h",{"children":[null,["$","$Lb",null,{"children":"$Lc"}],["$","div",null,{"hidden":true,"children":["$","$Ld",null,{"children":["$","$8",null,{"name":"Next.Metadata","children":"$Le"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$f",[["$","link","0",{"rel":"stylesheet","href":"/hss-digital-garden/_next/static/chunks/1sa0l7b9hs058.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"QvfJvM7Dra5qMHn1q7J7_"}
+10:[]
+a:"$W10"
+11:Tbd6,<h2>熊大的困惑</h2>
+<p>熊大觉得自己"坏掉了"——心里乱得像锅粥，明明没发生啥大事，却难受、焦虑，甚至有点看不起现在的自己。</p>
+<p>他羡慕吉吉：每天只要有香蕉吃就乐得不行，从来不想什么未来。<strong>为啥自己就不能像他们那样简单地活着？</strong></p>
+<h2>不是精神分裂，是积极分裂</h2>
+<p>这是心理学家<strong>达布罗夫斯基</strong>（Kazimierz Dabrowski）提出的理论。他认为人类的心理发展分三个层次：</p>
+<hr>
+<h2>第一层：初级整合</h2>
+<p>就像吉吉那样——只有生存本能，饿了吃，困了睡，大家干啥我干啥。</p>
+<p>这种状态非常稳固，像一块完整的石头。</p>
+<blockquote>
+<p><strong>没有痛苦，但也没有灵魂。</strong></p>
+</blockquote>
+<hr>
+<h2>第二层：分裂期</h2>
+<p>熊大现在的难受劲儿，就是这里。</p>
+<p>你的灵魂开始发育了。你开始意识到：</p>
+<ul>
+<li><strong>现在的我和我想成为的我之间有差距</strong></li>
+<li>你开始质疑大家都遵守的规则到底对不对</li>
+</ul>
+<p>这种思考像把锤子，把你原本像石头一样稳固的内心给敲碎了。</p>
+<blockquote>
+<p>焦虑、内耗、自我怀疑——<strong>其实是旧的你在瓦解，而新的你还没长出来时的生长痛。</strong></p>
+</blockquote>
+<hr>
+<h2>痛苦是因为拒绝了低级的和谐</h2>
+<p>你可以选择退回去，假装自己是个只会吃香蕉的猴子。那样确实不痛。</p>
+<p><strong>但你甘心吗？你已经看见过更高的山峰了，你还能假装自己属于泥潭吗？</strong></p>
+<p>在积极分裂理论里，这种内耗被视为一种<strong>天赋</strong>。只有拥有"第三因素"——也就是自主趋力——的人才配拥有这种痛苦。</p>
+<p>它在逼你重组。</p>
+<hr>
+<h2>第三层：次级整合</h2>
+<p>碎了还能拼起来？不仅是拼起来，是<strong>升级</strong>。</p>
+<p>当你熬过这段分裂期，你会把那些碎掉的片按照你自己的意愿重新拼成一个更高级的自我。</p>
+<p>那时候的你依然会笑，但那不是傻乐——</p>
+<blockquote>
+<p><strong>而是看透了生活的复杂之后依然选择的热爱。</strong></p>
+</blockquote>
+<p>那时候的稳固不是石头的稳固，而是<strong>钻石的稳固</strong>。</p>
+<hr>
+<h2>施工现场理论</h2>
+<blockquote>
+<p>俺现在的乱是因为正在施工。俺正在拆掉那个随波逐流的茅草屋，想盖一座属于自己的城堡。</p>
+<p>施工现场嘛，肯定又是灰又是土的，难受点也正常。</p>
+</blockquote>
+<p>别羡慕那些在那儿傻乐的猴子。他们是还没开始施工，或者是这辈子也就那样了。</p>
+<p><strong>而你，正在经历一场灵魂的蜕皮。</strong></p>
+<hr>
+<h2>核心结论</h2>
+<blockquote>
+<p><strong>崩溃绝非毁灭，而是进化的前奏。</strong></p>
+<p>凡是不能毁灭你的，终将把你雕刻得更完美。</p>
+</blockquote>6:[["$","$L4",null,{}],["$","main",null,{"className":"mx-auto max-w-3xl px-6 pt-32 pb-20 md:px-12","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-16","children":[["$","$L5",null,{"href":"/knowledge","className":"arrow-link mb-8 inline-flex text-sm text-[var(--color-text-secondary)] hover:text-[var(--color-accent)] transition-colors duration-200","children":[["$","span",null,{"className":"arrow-icon","children":"←"}]," Back to Knowledge"]}],["$","h1",null,{"className":"mt-6 font-serif text-4xl font-bold leading-tight tracking-tight text-[var(--color-text-primary)] md:text-5xl","children":"积极分裂理论：痛苦是灵魂在蜕皮"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center gap-4","children":[["$","span",null,{"className":"text-sm text-[var(--color-text-secondary)]","children":"2026年7月10日"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","心理学",{"className":"text-xs text-[var(--color-text-secondary)]","children":["#","心理学"]}],["$","span","个人成长",{"className":"text-xs text-[var(--color-text-secondary)]","children":["#","个人成长"]}],["$","span","积极分裂",{"className":"text-xs text-[var(--color-text-secondary)]","children":["#","积极分裂"]}],["$","span","达布罗夫斯基",{"className":"text-xs text-[var(--color-text-secondary)]","children":["#","达布罗夫斯基"]}]]}]]}]]}],["$","div",null,{"className":"markdown-content","dangerouslySetInnerHTML":{"__html":"$11"}}]]}],["$","div",null,{"className":"mt-20 border-t border-[var(--color-border)] pt-8","children":["$","$L5",null,{"href":"/knowledge","className":"arrow-link text-sm font-medium text-[var(--color-text-secondary)] hover:text-[var(--color-accent)] transition-colors duration-200","children":[["$","span",null,{"className":"arrow-icon","children":"←"}]," Back to Knowledge"]}]}]]}],["$","footer",null,{"className":"border-t border-[var(--color-border)] px-6 py-10 md:px-12","children":["$","div",null,{"className":"mx-auto flex max-w-6xl flex-col items-start justify-between gap-4 sm:flex-row sm:items-center","children":[["$","p",null,{"className":"text-sm text-[var(--color-text-secondary)]","children":"Built with care. © HSS"}],["$","div",null,{"className":"flex items-center gap-6","children":[["$","a",null,{"href":"https://github.com","target":"_blank","rel":"noopener noreferrer","className":"text-sm text-[var(--color-text-secondary)] hover-underline transition-colors duration-200","children":"GitHub"}],"$L12","$L13"]}]]}]}]]
+12:["$","$L5",null,{"href":"/new","className":"text-sm text-[var(--color-text-secondary)] hover-underline transition-colors duration-200","children":"New"}]
+13:["$","a",null,{"href":"/rss.xml","className":"text-sm text-[var(--color-text-secondary)] hover-underline transition-colors duration-200","children":"RSS"}]
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+e:[["$","title","0",{"children":"HSS Digital Garden"}],["$","meta","1",{"name":"description","content":"A personal digital garden — I learn, I think, I build."}]]

@@ -1,0 +1,111 @@
+1:"$Sreact.fragment"
+2:I[39756,["/hss-digital-garden/_next/static/chunks/05-c3ty_6dwfk.js","/hss-digital-garden/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+3:I[37457,["/hss-digital-garden/_next/static/chunks/05-c3ty_6dwfk.js","/hss-digital-garden/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+4:I[84834,["/hss-digital-garden/_next/static/chunks/05-c3ty_6dwfk.js","/hss-digital-garden/_next/static/chunks/14mrh2-p_w84d.js","/hss-digital-garden/_next/static/chunks/3xs6rg-g7tqe8.js"],"default"]
+5:I[22016,["/hss-digital-garden/_next/static/chunks/05-c3ty_6dwfk.js","/hss-digital-garden/_next/static/chunks/14mrh2-p_w84d.js","/hss-digital-garden/_next/static/chunks/3xs6rg-g7tqe8.js"],""]
+7:I[97367,["/hss-digital-garden/_next/static/chunks/05-c3ty_6dwfk.js","/hss-digital-garden/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+b:I[97367,["/hss-digital-garden/_next/static/chunks/05-c3ty_6dwfk.js","/hss-digital-garden/_next/static/chunks/14mrh2-p_w84d.js"],"ViewportBoundary"]
+d:I[97367,["/hss-digital-garden/_next/static/chunks/05-c3ty_6dwfk.js","/hss-digital-garden/_next/static/chunks/14mrh2-p_w84d.js"],"MetadataBoundary"]
+f:I[68027,["/hss-digital-garden/_next/static/chunks/05-c3ty_6dwfk.js","/hss-digital-garden/_next/static/chunks/14mrh2-p_w84d.js"],"default",1]
+:HL["/hss-digital-garden/_next/static/chunks/1sa0l7b9hs058.css","style"]
+:HL["/hss-digital-garden/_next/static/media/2a65768255d6b625-s.p.3u4lli0-axodc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/hss-digital-garden/_next/static/media/47df9ba1c7236d3b-s.p.137759vg1sbmi.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","knowledge","giants-kill-moves"],"q":"","i":false,"f":[[["",{"children":["knowledge",{"children":[["slug","giants-kill-moves","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/hss-digital-garden/_next/static/chunks/1sa0l7b9hs058.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/hss-digital-garden/_next/static/chunks/05-c3ty_6dwfk.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/hss-digital-garden/_next/static/chunks/14mrh2-p_w84d.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","className":"playfair_display_fa6c7a-module__e6LDAG__variable source_sans_3_ad774026-module__O-6XCW__variable","children":["$","body",null,{"className":"font-sans","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","$L4",null,{}],["$","main",null,{"className":"mx-auto flex max-w-3xl flex-col items-center justify-center px-6 pt-40 pb-20 text-center md:px-12","children":[["$","h1",null,{"className":"font-serif text-7xl font-bold text-[var(--color-text-primary)]","children":"404"}],["$","p",null,{"className":"mt-4 text-lg text-[var(--color-text-secondary)]","children":"This page doesn't exist yet."}],["$","$L5",null,{"href":"/","className":"arrow-link mt-8 text-sm font-medium text-[var(--color-text-secondary)] hover:text-[var(--color-accent)] transition-colors duration-200","children":[["$","span",null,{"className":"arrow-icon","children":"←"}]," Back home"]}]]}],["$","footer",null,{"className":"border-t border-[var(--color-border)] px-6 py-10 md:px-12","children":["$","div",null,{"className":"mx-auto flex max-w-6xl flex-col items-start justify-between gap-4 sm:flex-row sm:items-center","children":[["$","p",null,{"className":"text-sm text-[var(--color-text-secondary)]","children":"Built with care. © HSS"}],["$","div",null,{"className":"flex items-center gap-6","children":[["$","a",null,{"href":"https://github.com","target":"_blank","rel":"noopener noreferrer","className":"text-sm text-[var(--color-text-secondary)] hover-underline transition-colors duration-200","children":"GitHub"}],["$","$L5",null,{"href":"/new","className":"text-sm text-[var(--color-text-secondary)] hover-underline transition-colors duration-200","children":"New"}],["$","a",null,{"href":"/rss.xml","className":"text-sm text-[var(--color-text-secondary)] hover-underline transition-colors duration-200","children":"RSS"}]]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L6",[["$","script","script-0",{"src":"/hss-digital-garden/_next/static/chunks/3xs6rg-g7tqe8.js","async":true,"nonce":"$undefined"}]],["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]]}],{},null,false,null]},null,false,"$@a"]},null,false,"$@a"]},null,false,null],["$","$1","h",{"children":[null,["$","$Lb",null,{"children":"$Lc"}],["$","div",null,{"hidden":true,"children":["$","$Ld",null,{"children":["$","$8",null,{"name":"Next.Metadata","children":"$Le"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$f",[["$","link","0",{"rel":"stylesheet","href":"/hss-digital-garden/_next/static/chunks/1sa0l7b9hs058.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"QvfJvM7Dra5qMHn1q7J7_"}
+10:[]
+a:"$W10"
+11:T1422,<h2>一个想不通的问题</h2>
+<p>光头强砍树技术那么牛，还天天瞎琢磨发明砍树机器人、自动锯木机。可他为啥非要给李老板打工，看李老板脸色？自己单干，砍树卖木材不比受气强？</p>
+<p><strong>这不是他没本事，是巨头的玩法从一开始就把他的路堵死了。</strong></p>
+<h2>李老板的四道杀招</h2>
+<h3>杀招一：规模经济</h3>
+<p>光头强自己单干，就一台旧砍树机，一片小林地一天顶多砍 10 棵树。设备折旧费、油费、林地租金分摊到每棵树上，成本高得吓人。</p>
+<p>李老板不一样：</p>
+<ul>
+<li>上百片林地</li>
+<li>几十台砍树机</li>
+<li>专门的维修队</li>
+<li>一天能砍上千棵树</li>
+</ul>
+<p>分摊下来，<strong>每棵树的成本连光头强的零头都不到</strong>。</p>
+<blockquote>
+<p>光头强单干，卖 100 块一棵木材才不亏。李老板卖 50 块还能赚。</p>
+</blockquote>
+<h3>杀招二：垂直整合垄断</h3>
+<p>李老板不光有林地，还掌控着整个森林的<strong>木材运输、加工和销售渠道</strong>。</p>
+<ul>
+<li>自己的运输车队</li>
+<li>砍下来的木材直接运到自己的加工厂</li>
+<li>加工成木板，再卖给家具厂</li>
+<li>从头到尾不经过别人的手</li>
+</ul>
+<p>中间环节能省一大笔钱，甚至可以<strong>亏本租林地买设备，只为了把价格压得更低</strong>。</p>
+<p>光头强自己找运输队、找买家？</p>
+<ul>
+<li>运费比李老板贵一倍</li>
+<li>买家要么不敢收，要么压价压到他亏本</li>
+</ul>
+<p><strong>李老板把他的后路全堵死了。</strong></p>
+<h3>杀招三：专利墙</h3>
+<p>李老板手里有一大堆专利，堆起了一道<strong>专利墙</strong>。</p>
+<p>光头强哪怕发明个新机器，只要有一点点跟李老板的专利相似，李老板就会派律师来告他，罚他的钱，直到把他搞垮。</p>
+<blockquote>
+<p>对巨头来说，<strong>法律就是他们的保护伞，专利就是他们的护城河</strong>。</p>
+</blockquote>
+<h3>杀招四：掠夺性定价 + 资本垄断</h3>
+<p>光头强想贷款多买几台设备，租几片林地，跟李老板打价格战？</p>
+<p><strong>这正是李老板最想看到的。</strong></p>
+<p>这叫<strong>掠夺性定价</strong>（Predatory Pricing）：</p>
+<ul>
+<li>李老板手里有花不完的钱，他亏得起</li>
+<li>光头强要是敢低价卖，李老板就把价格压得更低，甚至低于成本价卖</li>
+<li>光头强亏一个月就没钱买油修设备了</li>
+<li>李老板亏一年也只是少赚点钱</li>
+</ul>
+<p>等光头强撑不下去，要么倒闭，要么只能回头求李老板。到时候李老板就会把收购价压得更低，还让光头强天天加班。</p>
+<p><strong>用短期亏损换长期的话语权。</strong></p>
+<h4>资本垄断</h4>
+<p>银行和投资人都愿意把钱投给李老板这种已经成功的巨头，因为稳赚不赔。可光头强这种个体想贷款买设备、租林地，<strong>利息高的吓人，还不一定能贷到</strong>。</p>
+<p>李老板能用很低的利息拿到钱，扩大规模、更新设备。光头强却连启动资金都凑不齐。</p>
+<blockquote>
+<p><strong>这就是巨头和个体之间无法跨越的阶级墙。</strong></p>
+</blockquote>
+<p>而且李老板垄断后根本不用搞创新，只要压低收购价、提高售价，就能躺着赚钱，慢慢也会变得僵化。</p>
+<h2>巨头杀不死的：效率陷阱</h2>
+<p>李老板虽然大，但也被自己的规模锁死了。这在经济学里叫<strong>效率陷阱</strong>（Efficiency Trap）。</p>
+<p>他为了追求大规模、低成本，所有的设备流程都是标准化的：</p>
+<ul>
+<li>只能砍常见的大树</li>
+<li>只能加工普通的木板</li>
+<li>根本满足不了特殊需求</li>
+</ul>
+<p>有些家具厂要特定品种的木材，有些村民要小巧的木材制品——这些小需求，李老板根本看不上，也没时间去满足。</p>
+<blockquote>
+<p><strong>李老板就像一头犀牛，力气大、跑得稳，但转不过弯。</strong></p>
+</blockquote>
+<h2>个体的出路：钻缝隙</h2>
+<p>光头强虽然小，但<strong>灵活</strong>，能钻犀牛钻不了的缝隙。</p>
+<p>他的发明本事能做李老板做不了的事：</p>
+<ul>
+<li>满足个性化、小众化的需求</li>
+<li>对接那些小客户</li>
+<li>琢磨新的发明</li>
+</ul>
+<p>| 巨头负责 | 个体负责 |
+|----------|----------|
+| 吃饱穿暖——满足最基本的木材需求 | 吃得好、用得巧——满足个性化、小众化需求 |
+| 靠规模收割利润 | 靠创新和灵活找到缝隙 |</p>
+<h2>核心结论</h2>
+<blockquote>
+<p><strong>垄断能锁住规模，却永远锁不住创新的灵魂，也锁不住灵活的脚步。</strong></p>
+</blockquote>
+<ul>
+<li>巨头能杀死那些跟他比规模、比成本的竞争者</li>
+<li>却永远杀不死那些<strong>懂创新、善变通</strong>的个体</li>
+<li>真正厉害的个体从不会跟巨头硬碰硬，而是<strong>顺着巨头的软肋走出自己的路</strong></li>
+</ul>6:[["$","$L4",null,{}],["$","main",null,{"className":"mx-auto max-w-3xl px-6 pt-32 pb-20 md:px-12","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-16","children":[["$","$L5",null,{"href":"/knowledge","className":"arrow-link mb-8 inline-flex text-sm text-[var(--color-text-secondary)] hover:text-[var(--color-accent)] transition-colors duration-200","children":[["$","span",null,{"className":"arrow-icon","children":"←"}]," Back to Knowledge"]}],["$","h1",null,{"className":"mt-6 font-serif text-4xl font-bold leading-tight tracking-tight text-[var(--color-text-primary)] md:text-5xl","children":"巨头的四道杀招与个体的生存缝隙"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center gap-4","children":[["$","span",null,{"className":"text-sm text-[var(--color-text-secondary)]","children":"2026年7月10日"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","经济学",{"className":"text-xs text-[var(--color-text-secondary)]","children":["#","经济学"]}],["$","span","垄断",{"className":"text-xs text-[var(--color-text-secondary)]","children":["#","垄断"]}],["$","span","创业策略",{"className":"text-xs text-[var(--color-text-secondary)]","children":["#","创业策略"]}],["$","span","个体与巨头",{"className":"text-xs text-[var(--color-text-secondary)]","children":["#","个体与巨头"]}]]}]]}]]}],["$","div",null,{"className":"markdown-content","dangerouslySetInnerHTML":{"__html":"$11"}}]]}],"$L12"]}],"$L13"]
+12:["$","div",null,{"className":"mt-20 border-t border-[var(--color-border)] pt-8","children":["$","$L5",null,{"href":"/knowledge","className":"arrow-link text-sm font-medium text-[var(--color-text-secondary)] hover:text-[var(--color-accent)] transition-colors duration-200","children":[["$","span",null,{"className":"arrow-icon","children":"←"}]," Back to Knowledge"]}]}]
+13:["$","footer",null,{"className":"border-t border-[var(--color-border)] px-6 py-10 md:px-12","children":["$","div",null,{"className":"mx-auto flex max-w-6xl flex-col items-start justify-between gap-4 sm:flex-row sm:items-center","children":[["$","p",null,{"className":"text-sm text-[var(--color-text-secondary)]","children":"Built with care. © HSS"}],["$","div",null,{"className":"flex items-center gap-6","children":[["$","a",null,{"href":"https://github.com","target":"_blank","rel":"noopener noreferrer","className":"text-sm text-[var(--color-text-secondary)] hover-underline transition-colors duration-200","children":"GitHub"}],["$","$L5",null,{"href":"/new","className":"text-sm text-[var(--color-text-secondary)] hover-underline transition-colors duration-200","children":"New"}],["$","a",null,{"href":"/rss.xml","className":"text-sm text-[var(--color-text-secondary)] hover-underline transition-colors duration-200","children":"RSS"}]]}]]}]}]
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+e:[["$","title","0",{"children":"HSS Digital Garden"}],["$","meta","1",{"name":"description","content":"A personal digital garden — I learn, I think, I build."}]]

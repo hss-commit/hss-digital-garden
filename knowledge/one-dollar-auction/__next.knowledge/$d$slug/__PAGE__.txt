@@ -1,0 +1,73 @@
+1:"$Sreact.fragment"
+2:I[84834,["/hss-digital-garden/_next/static/chunks/05-c3ty_6dwfk.js","/hss-digital-garden/_next/static/chunks/14mrh2-p_w84d.js","/hss-digital-garden/_next/static/chunks/3xs6rg-g7tqe8.js"],"default"]
+3:I[22016,["/hss-digital-garden/_next/static/chunks/05-c3ty_6dwfk.js","/hss-digital-garden/_next/static/chunks/14mrh2-p_w84d.js","/hss-digital-garden/_next/static/chunks/3xs6rg-g7tqe8.js"],""]
+9:I[97367,["/hss-digital-garden/_next/static/chunks/05-c3ty_6dwfk.js","/hss-digital-garden/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+4:T1209,<h2>一个反直觉的游戏</h2>
+<p>花 5 块钱买 1 块钱，这账连 3 岁小孩都会算。除非这一块钱是绝版古董，不然谁会往这种稳赔不赚的坑里跳？</p>
+<p>但有一个著名的实验：<strong>1 美元拍卖游戏</strong>。</p>
+<h2>规则</h2>
+<ul>
+<li>公开拍卖一张普通的 1 美元钞票</li>
+<li>5 美分起拍，每次加价 5 美分</li>
+<li><strong>价高者得</strong></li>
+<li><strong>附加规则</strong>：出价第二高的人也必须支付他的最终报价，而且什么都得不到</li>
+</ul>
+<h2>前期：抢福利</h2>
+<p>前期肯定抢破头。花 1 毛钱买 1 块钱，转手白赚 9 毛。就算加到 5 毛 6 毛，利润空间也依然很大。</p>
+<p>这听起来不像陷阱，像是在抢福利。</p>
+<p>当报价停留在几毛钱的时候，它确实是福利。</p>
+<p>但好戏在<strong>逼近 1 元</strong>时才会上演。</p>
+<h2>临界点：死局的开始</h2>
+<p>假设你的报价是 95 分，另一个人出到了 1 元。此时你面临两个选择：</p>
+<p>| 选择 | 结果 |
+|------|------|
+| 停手 | 95 分直接打水漂，血本无归 |
+| 加价到 1.05 元 | 赢了钞票，损失 5 分 |</p>
+<p>两害相权取其轻。咬着牙也得加到 1.05 元。</p>
+<p><strong>到了这一步，目标已经根本不是赚钱了，而是怎么让自己少亏一点。</strong></p>
+<p>而且对手肯定也是这个逻辑。他面临的是白亏 1 块钱还是亏 1 毛钱的选择。</p>
+<h2>无底洞</h2>
+<p>为了捞回前面砸进去的钱，只能不断往里填新钱。这不就是<strong>沉没成本</strong>在作祟吗？</p>
+<p>博弈论里把这种现象叫做<strong>消耗战模型</strong>（War of Attrition）。</p>
+<p>一旦跨过了 1 元的临界点，这场拍卖的性质就彻底变了。它<strong>不再是对价值的竞价，而是对双方痛苦承受能力的极限测试</strong>。</p>
+<p>每一次加价都是在用<strong>新的沉没成本去掩盖旧的沉没成本</strong>。</p>
+<h2>现实中的 1 美元拍卖</h2>
+<h3>谈了三四年的恋爱不敢分手</h3>
+<p>明明了解对方后发现根本不合适，三观不合，每天都在互相内耗。但一想到自己已经搭进去了，最宝贵的青春也闭着眼睛往下跳。</p>
+<p>怕的早就不是分手后的孤独，而是<strong>无法接受前面那七八年彻底变成一场空</strong>。</p>
+<h3>战争史上的无名高地</h3>
+<p>那座高地的战略价值有限，充其量就值 1 美元。</p>
+<ul>
+<li>起初，甲军投入了一个营去占领</li>
+<li>乙军为了夺回阵地，投入了两个营</li>
+<li>甲军如果选择撤兵，最初那个营就白白牺牲了——沦为血本无归的「第二高出价者」</li>
+<li>为了不让前面的沉没成本作废，甲军只能咬紧牙关，将兵力增加到一个团</li>
+</ul>
+<p>双方都被死死绑在了一辆无法刹车的战车上。最后在这个泥潭里填进去了几个师的兵力，赢的一方拿到了一片焦土，伤亡惨重；输的一方颗粒无收、全军覆没。</p>
+<h2>理性人的陷阱</h2>
+<p>如果所有参与者都是绝对理性的，在听到「第二名也要付钱」这个规则的时候，就应该集体保持沉默。谁也不去当那个出头鸟。既然看破了是个死局，最开始连那 5 分钱都不该出。</p>
+<p><strong>完美的理性只存在于真空的理论中。</strong></p>
+<p>现实是：</p>
+<ul>
+<li>总有人觉得自己能用极低的成本捡漏</li>
+<li>总有人盲目高估了自己的止损决心</li>
+</ul>
+<p>游戏一旦启动，多巴胺、胜负欲和对损失的极度恐惧就会接管大脑。</p>
+<h2>最可怕的是什么</h2>
+<p>在这场博弈里，可怕的不是对手有多狡猾。</p>
+<p><strong>而是你的每一步加价，在当时的那个节点上，看起来都是最优解。</strong></p>
+<p>为了弥补一个错误，被迫去犯一个更大的错误。偏偏每一步走得还极其合乎逻辑。</p>
+<h2>应对之策</h2>
+<p><strong>唯一办法就是识别出这个局，然后坚决不坐上牌桌。</strong></p>
+<p>不上牌桌当然是最高智慧。</p>
+<p>但很多时候，将我们拖入深渊的并不是什么突如其来的灾难，而是<strong>一连串看似理性的、旨在减少损失的微小妥协</strong>。</p>
+<p>当我们为了保住那些已经失去的东西而不断加码时，我们支付的往往是<strong>自己全部的未来</strong>。</p>
+<blockquote>
+<p><strong>为了弥补一个错误，被迫去犯一个更大的错误——偏偏每一步走得还极其合乎逻辑。</strong></p>
+</blockquote>0:{"rsc":["$","$1","c",{"children":[[["$","$L2",null,{}],["$","main",null,{"className":"mx-auto max-w-3xl px-6 pt-32 pb-20 md:px-12","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-16","children":[["$","$L3",null,{"href":"/knowledge","className":"arrow-link mb-8 inline-flex text-sm text-[var(--color-text-secondary)] hover:text-[var(--color-accent)] transition-colors duration-200","children":[["$","span",null,{"className":"arrow-icon","children":"←"}]," Back to Knowledge"]}],["$","h1",null,{"className":"mt-6 font-serif text-4xl font-bold leading-tight tracking-tight text-[var(--color-text-primary)] md:text-5xl","children":"1美元拍卖游戏：为什么理性人会在死局里越陷越深"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center gap-4","children":[["$","span",null,{"className":"text-sm text-[var(--color-text-secondary)]","children":"2026年7月10日"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","博弈论",{"className":"text-xs text-[var(--color-text-secondary)]","children":["#","博弈论"]}],["$","span","决策陷阱",{"className":"text-xs text-[var(--color-text-secondary)]","children":["#","决策陷阱"]}],["$","span","沉没成本",{"className":"text-xs text-[var(--color-text-secondary)]","children":["#","沉没成本"]}]]}]]}]]}],["$","div",null,{"className":"markdown-content","dangerouslySetInnerHTML":{"__html":"$4"}}]]}],["$","div",null,{"className":"mt-20 border-t border-[var(--color-border)] pt-8","children":"$L5"}]]}],"$L6"],["$L7"],"$L8"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"QvfJvM7Dra5qMHn1q7J7_"}
+5:["$","$L3",null,{"href":"/knowledge","className":"arrow-link text-sm font-medium text-[var(--color-text-secondary)] hover:text-[var(--color-accent)] transition-colors duration-200","children":[["$","span",null,{"className":"arrow-icon","children":"←"}]," Back to Knowledge"]}]
+6:["$","footer",null,{"className":"border-t border-[var(--color-border)] px-6 py-10 md:px-12","children":["$","div",null,{"className":"mx-auto flex max-w-6xl flex-col items-start justify-between gap-4 sm:flex-row sm:items-center","children":[["$","p",null,{"className":"text-sm text-[var(--color-text-secondary)]","children":"Built with care. © HSS"}],["$","div",null,{"className":"flex items-center gap-6","children":[["$","a",null,{"href":"https://github.com","target":"_blank","rel":"noopener noreferrer","className":"text-sm text-[var(--color-text-secondary)] hover-underline transition-colors duration-200","children":"GitHub"}],["$","$L3",null,{"href":"/new","className":"text-sm text-[var(--color-text-secondary)] hover-underline transition-colors duration-200","children":"New"}],["$","a",null,{"href":"/rss.xml","className":"text-sm text-[var(--color-text-secondary)] hover-underline transition-colors duration-200","children":"RSS"}]]}]]}]}]
+7:["$","script","script-0",{"src":"/hss-digital-garden/_next/static/chunks/3xs6rg-g7tqe8.js","async":true}]
+8:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null

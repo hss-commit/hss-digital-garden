@@ -1,0 +1,61 @@
+1:"$Sreact.fragment"
+2:I[84834,["/hss-digital-garden/_next/static/chunks/05-c3ty_6dwfk.js","/hss-digital-garden/_next/static/chunks/14mrh2-p_w84d.js","/hss-digital-garden/_next/static/chunks/0a99l2lk9niq8.js"],"default"]
+3:I[93529,["/hss-digital-garden/_next/static/chunks/05-c3ty_6dwfk.js","/hss-digital-garden/_next/static/chunks/14mrh2-p_w84d.js","/hss-digital-garden/_next/static/chunks/0a99l2lk9niq8.js"],"default"]
+a:I[22016,["/hss-digital-garden/_next/static/chunks/05-c3ty_6dwfk.js","/hss-digital-garden/_next/static/chunks/14mrh2-p_w84d.js","/hss-digital-garden/_next/static/chunks/0a99l2lk9niq8.js"],""]
+b:I[97367,["/hss-digital-garden/_next/static/chunks/05-c3ty_6dwfk.js","/hss-digital-garden/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+c:"$Sreact.suspense"
+4:Tcfd,最近越来越感到一种无力感。觉得自己「眼高手低」。
+
+在中大读核工程，大四。对自己各方面认知还算清晰，资源、能力都思考过。得出的结论是：眼高（想改变世界，比如为人类精神进步做点什么），手低（效率不够，学习、认知提升、身体锻炼都支撑不了宏大的目标）。
+
+但有人给了我当头一棒。
+
+**「这不是眼高手低，是你眼根本不高。」**
+
+崇拜马斯克，觉得他是对人类进步有贡献的精神领袖。但连他最近 3 小时的演讲都没看。SpaceX 的火星计划已经延期，改做近地卫星算力中心了——这些都不知道。
+
+对方说得很直白：如果对他的赞赏只停留在短视频和自媒体对他的评价，那其实不是喜欢他这个人，而是喜欢**自己所营造的某个形象**。
+
+「让人类进步」这个理念，甚至不是马斯克说的，是自己用它的壳套出来的。如果真的认可这个理念，会去研究：人类进步到什么地步了？卡在什么地方？谁走在最前沿？
+
+**24 秒钟都不愿意去搜一下，就得出「我不擅长」的结论。**
+
+这何其狂傲。连那个行业是什么都不知道，就说「我不擅长，我不关心，但我不擅长它」。
+
+真正的冲动是什么？是哪怕喜欢一个女生，不敢表白，起码敢偷偷看她照片。是打开朋友圈看到她的照片，起码能停留 10 秒。而不是刷到激昂音乐时突然觉得自己要做什么，翻了个身觉得「好他妈累，这种想法好无聊」。
+
+对方说得很重：
+
+> **「你一分都不想为它付出精力，搜也不想搜，得到一个结论就是我不擅长、我干不了。但我想让他好，想让他好，付出就是 24 秒钟时间都不给他耽误。那我就是想他好，任何人问我，我都跟他说，我绝对想得好。」**
+
+## 真正的眼高是什么
+
+如果一个人的眼界真的高，他会非常清晰地知道我们要做什么。然后他就有动力去执行了。
+
+如果一个人眼根本就不高，却疯狂去解决执行力，这辈子更没有什么成就。
+
+**问题不在于「手低」，而在于根本没有清晰地知道自己到底想要的是什么。**
+
+## 对方给的方法
+
+不要给自己贴标签「眼高手低」。这个标签会让人错误地只去解决「执行力」这一件事，而忽略了「眼根本不高」这个主要问题。
+
+**开眼。聚焦具体问题。然后就知道要做什么了。**
+
+多去看访谈、看落地在一线冲杀的人，看看他们在聊什么。碰到某些点特别感兴趣的时候，就会「技痒」——蠢蠢欲动地想在这个领域分一杯羹，留下自己的名字。这时候手低不了，手自然会往上使，谁拦着你都不行。
+
+## 做 dirty work 也是推进战线
+
+对方自己带学生做 AI 训练师，被很多人骂是低端岗位、dirty work。但他说：「我的学生干不了体面的 decent work，只能干 dirty work 了。没办法。但我就是扛着炸药包往四行仓库冲，不一定做主力战场，做狙击手也行，往前推进一点点，也算是把战线往前推动了一点点。」
+
+**这比我待着强。做着，比空想着，强万倍。**
+
+## 最后的话
+
+> 「别给自己人生设限好吗。」0:{"rsc":["$","$1","c",{"children":[[["$","$L2",null,{}],["$","main",null,{"className":"mx-auto max-w-3xl px-6 pt-32 pb-20 md:px-12","children":[["$","$L3",null,{"children":[["$","h1",null,{"className":"font-serif text-4xl font-bold tracking-tight text-[var(--color-text-primary)] md:text-5xl","children":"Thinking"}],["$","p",null,{"className":"mt-4 text-base leading-relaxed text-[var(--color-text-secondary)]","children":"Short thoughts, observations, and questions. Raw, unfiltered, and sometimes incomplete."}]]}],["$","div",null,{"className":"mt-16 space-y-10","children":[["$","$L3","thinking-4",{"children":["$","div",null,{"className":"border-t border-[var(--color-border)] pt-8","children":[["$","p",null,{"className":"text-base leading-relaxed text-[var(--color-text-primary)]","children":"$4"}],["$","span",null,{"className":"mt-3 inline-block text-sm text-[var(--color-text-secondary)]","children":"2026年7月10日"}]]}]}],["$","$L3","thought-1",{"children":["$","div",null,{"className":"border-t border-[var(--color-border)] pt-8","children":[["$","p",null,{"className":"text-base leading-relaxed text-[var(--color-text-primary)]","children":"最好的产品不是功能最多的，而是让用户感觉自己很聪明的。当你用一个产品时感到得心应手，那不是你的能力，是设计者的能力。"}],["$","span",null,{"className":"mt-3 inline-block text-sm text-[var(--color-text-secondary)]","children":"2026年7月9日"}]]}]}],["$","$L3","thought-2",{"children":["$","div",null,{"className":"border-t border-[var(--color-border)] pt-8","children":[["$","p",null,{"className":"text-base leading-relaxed text-[var(--color-text-primary)]","children":"写代码和写文章本质上是一回事。都是在组织思想，让它们清晰、可理解、能被他人使用。代码写给人看，顺便让机器执行。"}],["$","span",null,{"className":"mt-3 inline-block text-sm text-[var(--color-text-secondary)]","children":"2026年7月7日"}]]}]}],["$","$L3","thought-3",{"children":["$","div",null,{"className":"border-t border-[var(--color-border)] pt-8","children":[["$","p",null,{"className":"text-base leading-relaxed text-[var(--color-text-primary)]","children":"\"快速失败\"被误解了。它不是说随便做然后接受失败，而是说用最小的成本验证假设，然后根据结果调整方向。重点是\"快速验证\"，不是\"快速失败\"。"}],["$","span",null,{"className":"mt-3 inline-block text-sm text-[var(--color-text-secondary)]","children":"2026年7月5日"}]]}]}]]}],false]}],["$","footer",null,{"className":"border-t border-[var(--color-border)] px-6 py-10 md:px-12","children":["$","div",null,{"className":"mx-auto flex max-w-6xl flex-col items-start justify-between gap-4 sm:flex-row sm:items-center","children":[["$","p",null,{"className":"text-sm text-[var(--color-text-secondary)]","children":"Built with care. © HSS"}],["$","div",null,{"className":"flex items-center gap-6","children":["$L5","$L6","$L7"]}]]}]}]],["$L8"],"$L9"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"QvfJvM7Dra5qMHn1q7J7_"}
+5:["$","a",null,{"href":"https://github.com","target":"_blank","rel":"noopener noreferrer","className":"text-sm text-[var(--color-text-secondary)] hover-underline transition-colors duration-200","children":"GitHub"}]
+6:["$","$La",null,{"href":"/new","className":"text-sm text-[var(--color-text-secondary)] hover-underline transition-colors duration-200","children":"New"}]
+7:["$","a",null,{"href":"/rss.xml","className":"text-sm text-[var(--color-text-secondary)] hover-underline transition-colors duration-200","children":"RSS"}]
+8:["$","script","script-0",{"src":"/hss-digital-garden/_next/static/chunks/0a99l2lk9niq8.js","async":true}]
+9:["$","$Lb",null,{"children":["$","$c",null,{"name":"Next.MetadataOutlet","children":"$@d"}]}]
+d:null

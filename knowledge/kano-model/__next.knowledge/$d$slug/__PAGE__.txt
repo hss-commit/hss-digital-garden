@@ -1,0 +1,100 @@
+1:"$Sreact.fragment"
+2:I[84834,["/hss-digital-garden/_next/static/chunks/05-c3ty_6dwfk.js","/hss-digital-garden/_next/static/chunks/14mrh2-p_w84d.js","/hss-digital-garden/_next/static/chunks/3xs6rg-g7tqe8.js"],"default"]
+3:I[22016,["/hss-digital-garden/_next/static/chunks/05-c3ty_6dwfk.js","/hss-digital-garden/_next/static/chunks/14mrh2-p_w84d.js","/hss-digital-garden/_next/static/chunks/3xs6rg-g7tqe8.js"],""]
+9:I[97367,["/hss-digital-garden/_next/static/chunks/05-c3ty_6dwfk.js","/hss-digital-garden/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+4:T1af8,<h2>一道思考题</h2>
+<p>海底捞的火锅味道只能算中上，但它却做到了中国餐饮品牌的天花板。而很多味道远超海底捞的火锅店，消费者吃完一次就再也不去了。</p>
+<p>为什么？</p>
+<h2>产品为王是个陷阱</h2>
+<p>大部分老板到今天还相信一句话：「产品为王」。觉得只要把产品做到极致，消费者一定会买单。</p>
+<p>但真相是，<strong>很多做到极致的产品，死的往往比做的一般的更快。</strong></p>
+<p>因为消费者的满意度跟产品好不好，<strong>根本不是简单的正比关系。</strong></p>
+<h2>Kano 模型：一个反认知的发现</h2>
+<p>东京理工大学教授<strong>狩野纪昭</strong>（Noriaki Kano）在研究产品质量和消费者满意度时，发现了一个让当时所有企业都震惊的结论：</p>
+<blockquote>
+<p>消费者对产品功能的反应<strong>根本不是线性的</strong>。不是你做的越多，消费者越满意。</p>
+</blockquote>
+<p>有些东西你做到了 120 分，消费者只觉得理所当然。有些东西你只做了 60 分，消费者却感动到发朋友圈。</p>
+<p>他把这个发现总结成了 <strong>Kano 模型</strong>。</p>
+<h2>五种需求类型</h2>
+<h3>1. 基本型需求（Must-be）</h3>
+<p>消费者认为你必须有的东西。你做到了，他觉得理所当然，不会因此更满意。但你没做到，他会非常不满，甚至直接拉黑你。</p>
+<ul>
+<li>外卖能准时送到</li>
+<li>酒店房间是干净的</li>
+<li>手机能正常通话</li>
+</ul>
+<p><strong>关键洞察</strong>：在基本型需求上投入再多，满意度曲线是平的。你只是在<strong>避免被骂</strong>，而不是在<strong>制造喜欢</strong>。</p>
+<blockquote>
+<p>当年华与华给汉庭的定位「爱干净，住汉庭」，彻底拉高了清洁成本和客诉比例。不仅没有获得更高评价，反而让一丁点不干净也成为客户永久拉黑的缘由。</p>
+</blockquote>
+<h3>2. 期望型需求（One-dimensional）</h3>
+<p>你做得好，满意度上升；你做得差，满意度下降。这是<strong>线性关系</strong>。</p>
+<ul>
+<li>手机续航更长，用户更满意</li>
+<li>外卖多送一个甜品，用户觉得贴心</li>
+</ul>
+<p>这是大部分品牌竞争的<strong>主战场</strong>。但所有人都在这个维度上拼命卷，结果就是：</p>
+<blockquote>
+<p>你做到了 80 分，消费者的期望值就提高到 85 分。你再做到 85 分，他的期望值就到 90 分。永远在追赶一条不断上移的基准线。</p>
+</blockquote>
+<p><strong>这就是很多行业越卷越累、利润越来越薄的原因</strong>——你在一条永远跑不到终点的跑道上竞争。</p>
+<h3>3. 无差异型需求（Indifferent）</h3>
+<p>你做或者不做，做得好或者做得差，用户都无动于衷。</p>
+<p>这是企业里最容易出现的「老板觉得好」或者「技术极客觉得酷」的功能。除了增加成本，毫无商业价值。</p>
+<h3>4. 反向型需求（Reverse）</h3>
+<p>你提供的越多，用户越反感，满意度直线下降。</p>
+<ul>
+<li>视频网站越来越长的广告</li>
+<li>服装店里像牛皮糖一样贴着你的导购</li>
+</ul>
+<p>画蛇添足的需求，提供的越多，伤害越大。</p>
+<h3>5. 兴奋型需求（Attractive）—— 改变游戏规则的武器</h3>
+<p><strong>你不提供，消费者不会不满，因为他压根没想到。但你提供了，消费者的满意度会指数级飙升，从此变成你的死忠粉。</strong></p>
+<p>海底捞就是把兴奋型需求做到极致的品牌：</p>
+<ul>
+<li>等位时免费零食饮料，甚至可以做美甲</li>
+<li>过生日，服务员推着小推车给你唱歌、切蛋糕</li>
+<li>带了小孩，给孩子送玩具</li>
+</ul>
+<p>这些事跟火锅味道没有任何关系，消费者也从来没有期望过。但正是这些消费者没想到的东西，让海底捞的口碑传播变成了全行业现象。</p>
+<p>苹果也是同理：</p>
+<blockquote>
+<p>在 iPhone 之前，没有消费者会要求手机屏幕可以两指缩放，因为他们根本不知道这个东西可以存在。但当他们第一次在屏幕上用两根手指放大照片的那一秒，他们就再也回不去了。</p>
+</blockquote>
+<p>乔布斯从来不做消费者调研，因为他知道：<strong>消费者说不出自己想要什么，但他们一旦看到，就再也离不开。</strong></p>
+<h2>兴奋型需求的保质期</h2>
+<p>兴奋型需求有一个残酷的规律：<strong>它有保质期。</strong></p>
+<p>| 阶段 | 状态 | 例子 |
+|------|------|------|
+| 兴奋型 | 消费者异常惊喜 | 海底捞刚推出等位美甲 |
+| 期望型 | 消费者开始期待 | 今天等位没有美甲，你反而不满 |
+| 基本型 | 消费者视为理所当然 | 没有美甲服务 = 体验不完整 |</p>
+<blockquote>
+<p>Face ID 刚出来的时候是惊喜，现在没有 Face ID 你反而觉得不行。灵动岛刚出来的时候很酷，现在安卓都在模仿，它就变成了期望型需求。</p>
+</blockquote>
+<p><strong>品牌不能靠一次惊喜活一辈子。你必须持续创造新的兴奋型需求来替代那些已经降级的旧惊喜。</strong></p>
+<h2>品牌真正的护城河</h2>
+<p>产品可以被模仿，功能可以被追平。但<strong>你持续制造兴奋型需求的能力，才是真正的护城河。</strong></p>
+<h3>为什么星巴克不会被瑞幸取代？</h3>
+<p>瑞幸竞争的是<strong>期望型需求</strong>：更便宜、更快、更多口味。9.9 元、APP 下单、3 分钟取杯——每一个优势都是线性的，竞品随时可以追上来。</p>
+<p>而星巴克竞争的是<strong>兴奋型需求</strong>：它提供了一个办公和社交的「第三空间」，以及身份认同。这个需求在消费者买咖啡之前根本不存在，但体验到之后就回不去了。</p>
+<p><strong>当你把一个别人没有的惊喜做成你品牌独有的标签时，你就跳出了价格竞争。</strong></p>
+<h2>Kano 模型给品牌的终极启示</h2>
+<blockquote>
+<p>不要在消费者已经期望的维度上死磕。那是一场所有人都输的消耗战。</p>
+<p>去找到消费者还没想到的那个维度，把它做出来，让消费者第一次体验到的时候说一句「原来还可以这样」。</p>
+<p><strong>这句话，就是品牌溢价的起点，也是所有竞争对手追不上你的起跑线。</strong></p>
+</blockquote>
+<p>就像谈恋爱：</p>
+<ul>
+<li>基本型需求是不能出轨——做到了，对方不会因此更爱你</li>
+<li>期望型需求是每天接她下班、送花做饭——做的越好她越满意，但所有追她的人都会这么做</li>
+<li><strong>真正让她决定嫁给你的，一定是某一个她完全没想到的瞬间——一个只有你才能给的惊喜</strong></li>
+</ul>0:{"rsc":["$","$1","c",{"children":[[["$","$L2",null,{}],["$","main",null,{"className":"mx-auto max-w-3xl px-6 pt-32 pb-20 md:px-12","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-16","children":[["$","$L3",null,{"href":"/knowledge","className":"arrow-link mb-8 inline-flex text-sm text-[var(--color-text-secondary)] hover:text-[var(--color-accent)] transition-colors duration-200","children":[["$","span",null,{"className":"arrow-icon","children":"←"}]," Back to Knowledge"]}],["$","h1",null,{"className":"mt-6 font-serif text-4xl font-bold leading-tight tracking-tight text-[var(--color-text-primary)] md:text-5xl","children":"Kano 模型：为什么让消费者尖叫的不是产品本身"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center gap-4","children":[["$","span",null,{"className":"text-sm text-[var(--color-text-secondary)]","children":"2026年7月10日"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","产品设计",{"className":"text-xs text-[var(--color-text-secondary)]","children":["#","产品设计"]}],["$","span","品牌策略",{"className":"text-xs text-[var(--color-text-secondary)]","children":["#","品牌策略"]}],["$","span","消费者心理",{"className":"text-xs text-[var(--color-text-secondary)]","children":["#","消费者心理"]}]]}]]}]]}],["$","div",null,{"className":"markdown-content","dangerouslySetInnerHTML":{"__html":"$4"}}]]}],"$L5"]}],"$L6"],["$L7"],"$L8"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"QvfJvM7Dra5qMHn1q7J7_"}
+5:["$","div",null,{"className":"mt-20 border-t border-[var(--color-border)] pt-8","children":["$","$L3",null,{"href":"/knowledge","className":"arrow-link text-sm font-medium text-[var(--color-text-secondary)] hover:text-[var(--color-accent)] transition-colors duration-200","children":[["$","span",null,{"className":"arrow-icon","children":"←"}]," Back to Knowledge"]}]}]
+6:["$","footer",null,{"className":"border-t border-[var(--color-border)] px-6 py-10 md:px-12","children":["$","div",null,{"className":"mx-auto flex max-w-6xl flex-col items-start justify-between gap-4 sm:flex-row sm:items-center","children":[["$","p",null,{"className":"text-sm text-[var(--color-text-secondary)]","children":"Built with care. © HSS"}],["$","div",null,{"className":"flex items-center gap-6","children":[["$","a",null,{"href":"https://github.com","target":"_blank","rel":"noopener noreferrer","className":"text-sm text-[var(--color-text-secondary)] hover-underline transition-colors duration-200","children":"GitHub"}],["$","$L3",null,{"href":"/new","className":"text-sm text-[var(--color-text-secondary)] hover-underline transition-colors duration-200","children":"New"}],["$","a",null,{"href":"/rss.xml","className":"text-sm text-[var(--color-text-secondary)] hover-underline transition-colors duration-200","children":"RSS"}]]}]]}]}]
+7:["$","script","script-0",{"src":"/hss-digital-garden/_next/static/chunks/3xs6rg-g7tqe8.js","async":true}]
+8:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null
